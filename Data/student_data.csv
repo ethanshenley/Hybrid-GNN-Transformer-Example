@@ -1,0 +1,301 @@
+Student ID,Name,Date of Birth,Entry Date,Expected Graduation,Major,Minor,GPA,Total Credits,Academic Standing,Gender,Ethnicity,First Generation College,High School GPA,SAT Score,ACT Score,Current Courses,Academic Plan,Study Abroad Experience,Internship Experience,Research Experience,Extracurricular Activities,Attendance Rate,Assignment Completion Rate,Preferred Learning Style,Career Goals,Tutoring Sessions,Academic Coaching Sessions,Average Study Hours/Week,Work Hours/Week
+S548323,Sophia Rodriguez,1999-11-07,2024-08-01,2028-05-15,HIST,,2.46,85,Good Standing,Male,Native American,True,3.06,,,65260|13043|51212,64891|75519|17292|80475|33652|82386|41090|13039|63396|90434,False,False,False,Activity:Member|Activity:Member,0.8341785355410825,0.9285145448540364,Auditory,"1. To become a software engineer at a top technology company
+2. To pursue a career in marketing and eventually become a brand manager
+3. To work in public health and contribute to improving healthcare access for underserved communities",8,4,21.914441233047334,7.836155882407471
+S170893,Ava Thompson,2005-07-08,2022-08-01,2026-05-15,PHYS,HIST,2.19,110,Good Standing,Non-binary,Asian,False,2.51,1427,,20582|48939|97198,64748|40934|60141|39526|65206|64891|32574,False,True,True,Name: Global Perspectives Club:Role: Event Coordinator|Activity:Member|Name: Global Awareness Club:Role: Event Coordinator,0.8458116654771877,0.7145290909994717,Visual,"1. To become a successful software engineer at a top tech company
+2. To pursue a career in healthcare as a nurse practitioner 
+3. To establish a business in the fashion industry as a designer",8,4,24.785869524467234,
+S587151,Amanda Rodriguez,2003-01-23,2024-08-01,2028-05-15,BIO,,3.99,73,Good Standing,Female,Caucasian,False,2.54,1552,,17554|51610|45446,83792|63396|17018|41665|37885|78858|91364|94308|85218|37920,True,False,True,,0.8114466796683123,0.8060134097451699,Kinesthetic,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of environmental conservation and make a positive impact on the planet.",3,3,7.384360180891848,
+S239497,Alexandra Thompson,2005-02-01,2020-08-01,2024-05-15,HIST,,3.03,99,Good Standing,Other,Hispanic,False,3.69,1403,26,44708|90434|65904|85218|58662,80475|24288|85442|58662|67153|70424|23846|49740,False,False,True,"""Global Awareness Club:"" President",0.895688977811262,0.9564857029566557,Reading/Writing,"1. To become a marketing manager at a multinational corporation
+2. To pursue a career as a software engineer at a tech startup
+3. To work in environmental policy research and advocacy",1,0,6.764423699305587,18.710307586025188
+S529779,Emily Johnson,2003-01-10,2023-08-01,2027-05-15,BIO,,2.12,14,Academic Warning,Male,Hispanic,True,3.98,1172,,34767|13855|51610,33652|24288|34767|20345|85442|40934|97198,True,False,True,,0.8789994810275612,0.9069232355200098,Kinesthetic,"1. Become a successful entrepreneur and start a business in the tech industry.
+2. Pursue a career in environmental science and work towards creating sustainable solutions for a better future.
+3. Become a marketing specialist in a multinational corporation and lead innovative campaigns to drive business growth.",1,1,7.98685948160605,
+S631127,Emily Johnson,2002-03-06,2022-08-01,2026-05-15,BIO,,3.25,15,Academic Probation,Female,African American,False,2.95,,,32970|55791|64748|49740,47591|78068|13855|64891|44708|16098|65260,False,True,True,Activity:Member|Activity:Member,0.8048748714448314,0.6242695622011141,Reading/Writing,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in healthcare and become a doctor or nurse.
+3. To work in the field of environmental conservation and contribute to sustainability efforts.",10,3,16.087472018949384,18.525877782533964
+S600282,Ava Thompson,2004-09-21,2022-08-01,2026-05-15,ENG,,3.13,76,Academic Probation,Non-binary,African American,False,3.77,1374,,44495|78858|51212|13039,63396|65206|78858|65904|85218|57707,False,False,False,Activity:Member|Activity:Member,0.8246935613644939,0.6342125085983289,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of environmental conservation and make a positive impact on the planet.",9,0,20.074887638047546,2.662812296960002
+S243995,Olivia Bennett Smith,2005-09-23,2022-08-01,2026-05-15,BIO,PHYS,3.6,69,Academic Probation,Female,African American,False,3.19,1527,22,82386|26840|92738,18937|60530|49740|59713|41090,True,True,False,Activity:Member,0.8466281787600274,0.7481688040619765,Auditory,"1. To become a software engineer at a leading tech company
+2. To work as a marketing manager for a global corporation
+3. To pursue a career in environmental sustainability research and advocacy",1,4,23.38917841054835,
+S801642,Emma Thompson,2005-06-13,2024-08-01,2028-05-15,ECON,,2.86,8,Academic Warning,Male,Hispanic,True,3.94,,36,63396|39872|33652|99488,78068|88542|58662|91364|39872|40934|18937|51861|82386|26840,False,False,False,Activity Name: Creative Minds Club:Student Role: Event Coordinator|Name: Creative Minds Club:Role: Event Coordinator,0.8380214161091578,0.6196147364690401,Auditory,"1. To become a software engineer at a leading tech company
+2. To work in public relations for a global organization
+3. To pursue a career in environmental science research",6,5,6.912242720931273,
+S972544,Emily Rodriguez,2002-03-26,2021-08-01,2025-05-15,PHYS,,3.3,27,Academic Probation,Other,Hispanic,False,2.9,1268,,33652|16098|82095|85476,75519|15545|17018|32970|97198|67153,False,True,False,Activity:Member|Activity:Member,0.711828210833161,0.6137175477525475,Kinesthetic,"1. Secure a position at a top financial firm as a financial analyst.
+2. Become a successful entrepreneur and start a tech company.
+3. Pursue a career in public service and work for a non-profit organization.",3,3,24.101343956545428,6.465360919120586
+S654728,Olivia Thompson,1999-02-04,2021-08-01,2025-05-15,ENG,,3.03,81,Academic Probation,Male,Caucasian,True,3.13,,,99488|66602|30891|18937,13039|32574|64748|32970|51610|45521,True,False,False,Activity:Member|Activity:Member|Activity:Member,0.9429458692690795,0.9543721293648462,Visual,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of environmental sustainability and make a positive impact on the planet.",2,3,12.784345063648749,
+S127194,Emma Thompson,1999-07-28,2023-08-01,2027-05-15,CS,CHEM,2.76,110,Academic Probation,Male,African American,False,3.13,1439,,13855|94308|65260,80475|41090|83425|35271|88542|31444,True,True,True,,0.8249707692432804,0.9471421778723974,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in healthcare and become a doctor or nurse practitioner.
+3. To work in the field of environmental sustainability and help create a more sustainable future.",2,5,5.529428627684195,0.20505543260965098
+S189193,Alexandra Thompson,2005-01-12,2022-08-01,2026-05-15,CS,,3.32,64,Academic Warning,Other,Other,True,2.52,1449,,24288|37885|91364,65206|26840|82952|20345|17018,True,False,False,Activity:Member,0.7513452240825724,0.988365804051531,Reading/Writing,"1. Becoming a successful entrepreneur and starting their own business.
+2. Pursuing a career in healthcare as a doctor or nurse practitioner.
+3. Working in sustainability and environmental conservation as a researcher or advocate.",8,1,17.210846918695225,2.6438918374848708
+S508223,Lily Bennett Smith,2004-10-23,2021-08-01,2025-05-15,MATH,,2.27,14,Academic Probation,Male,Native American,True,3.93,1442,,64748|41578|65260|90434,91364|85476|59713|88542|31444|13043|62128|51610|49740|58662,True,True,False,Activity:Member|Activity Name: Tech Innovators Club:Role: Marketing Coordinator|Name: Creative Minds Club:Role: Marketing Coordinator,0.9985050050900106,0.7653993911144097,Reading/Writing,"1. Becoming a successful entrepreneur and starting their own business
+2. Pursuing a career in medicine as a doctor or medical researcher
+3. Working in the field of environmental conservation as a biologist or environmental scientist",6,1,11.668237639696041,9.53590124198479
+S490489,Olivia Taylor Parker,2002-09-28,2020-08-01,2024-05-15,MATH,CHEM,3.29,43,Academic Probation,Female,Native American,True,2.62,,34,32970|45446|63396,85442|69254|15052|62128|79821|88180,False,True,True,,0.7026987370634157,0.9166004367435953,Auditory,"1. To become a software engineer at a tech company like Google or Microsoft.
+2. To pursue a career in marketing and work for a leading advertising agency.
+3. To establish their own business in the field of sustainable fashion design.",1,0,21.242193746389574,
+S630030,Emily Johnson,2001-10-10,2023-08-01,2027-05-15,ENG,PHYS,2.66,94,Good Standing,Other,Other,True,2.93,1393,26,39310|32574|41578|97198,36511|78858|35271|91459|17018|82952|51212|78068,False,False,False,,0.860974614972887,0.9168445395718515,Reading/Writing,"1. Becoming a software engineer at a leading technology company
+2. Pursuing a career in marketing at a multinational corporation
+3. Establishing a successful startup in the healthcare industry",1,2,10.610431209584362,
+S147525,Madison Bennett Smith,2002-03-03,2020-08-01,2024-05-15,CHEM,,3.83,23,Good Standing,Other,Hispanic,True,2.97,1129,,55791|67607|51610|79741|85218,32574|92738|17931|90434|17129|31444|47509|82952,True,False,True,"Name: Tech Innovators Club:Role: Marketing Coordinator|""Tech Innovators Club:"" President",0.8731115660119708,0.7400732756925457,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in healthcare as a doctor or nurse practitioner.
+3. To work in the field of environmental conservation and sustainability as a researcher or advocate.",2,3,19.644960754374814,
+S137353,Emma Thompson,2006-09-15,2024-08-01,2028-05-15,ENG,,2.84,16,Academic Probation,Female,Pacific Islander,False,2.6,1415,29,36511|37920|17931,32970|70424|92738|79821|26616|45521,True,False,False,,0.8186817240297941,0.6984403390757885,Auditory,"1. Become a successful entrepreneur and start their own business
+2. Pursue a career in environmental sustainability and work towards creating a more sustainable future
+3. Become a respected leader in their field and make a positive impact in their industry",5,5,13.389092948269417,
+S740352,Olivia Rodriguez,1999-07-10,2024-08-01,2028-05-15,ECON,CHEM,3.69,105,Academic Probation,Female,Pacific Islander,False,3.77,1105,,59713|60530|51610|45446,39872|66602|49459|79741|37920|80475,False,False,False,Activity:Member|Activity:Member,0.9171619124853005,0.9912826477759268,Visual,"1. To become a licensed psychologist specializing in child and adolescent therapy
+2. To work as a data analyst for a tech company 
+3. To pursue a career in environmental sustainability consulting",7,1,25.272845449543453,11.767981667110927
+S429761,Sophia Patel,2002-10-02,2021-08-01,2025-05-15,PHYS,,3.89,66,Academic Probation,Female,Caucasian,False,3.25,,,49459|41090|20582|51861,33652|90434|16098|79741|17018|80475|44495,True,True,True,Activity:Member|Activity Name: Global Leadership Initiative:Role: Event Coordinator,0.8778903316293828,0.8381213196835529,Reading/Writing,"1. Become a successful entrepreneur and start their own business
+2. Work in a leadership role at a multinational corporation
+3. Pursue a career in research and academia in their field of study",7,3,14.588096910207739,15.620853470942432
+S369718,Emily Rodriguez,2004-10-18,2020-08-01,2024-05-15,MATH,,2.81,98,Academic Warning,Other,Hispanic,True,2.9,1098,22,78068|41090|82635,34767|44708|41090|85218|45446|78858|18937|41578,True,False,True,"The name of the university extracurricular activity is ""Global Connections Club:"" and the role a student might have in it is ""Event Coordinator.""|Activity:Member",0.7009877692992132,0.8922803406848614,Kinesthetic,"1. Becoming a successful business owner and entrepreneur
+2. Attaining a leadership position in a multinational corporation
+3. Establishing a career in public service and working towards social change",2,3,15.418046097103645,2.661336025096852
+S348673,Abigail Thompson,2005-01-22,2024-08-01,2028-05-15,ECON,CHEM,3.5,118,Academic Warning,Non-binary,Other,False,3.16,,24,60141|91364|41578,65904|36511|88542|17129|39310|57707|20345|49367,True,True,True,Activity:Member|Activity Name: Tech Innovators Club:Role: Social Media Coordinator|Activity:Member,0.7092875962293098,0.9757800357858778,Auditory,"1. To become a software engineer at a top tech company
+2. To pursue a career in environmental sustainability research
+3. To work towards becoming a marketing manager in the fashion industry",8,1,6.320238185797082,6.334050834788911
+S631101,Lily Nguyen,2006-05-07,2020-08-01,2024-05-15,BIO,,3.26,94,Academic Probation,Male,Other,True,2.81,1559,32,97198|73890|44495|99488,57707|62128|13855|46472|30891,True,True,False,Activity: Future Leaders Society:Role: Event Coordinator,0.7106729382271336,0.6183981594463142,Visual,"1. To become a successful entrepreneur and start their own business in a niche they are passionate about.
+2. To pursue a career in environmental science and work towards creating sustainable solutions to address global environmental challenges.
+3. To become a lawyer and advocate for justice and equality in society.",1,1,20.12288847906452,12.57764708639495
+S696144,Olivia Hernandez Smith,2004-02-11,2021-08-01,2025-05-15,ENG,,2.42,109,Academic Probation,Female,Other,False,3.65,1235,,57707|68325|23846,31444|51212|55791|36511|57707|41090|73890|13039|88542|67153,False,False,True,Activity:Member|Activity:Member,0.963445092166497,0.94554214199095,Auditory,"1. Become a successful software engineer at a leading tech company
+2. Start their own business in the field of sustainable fashion
+3. Pursue a career in environmental conservation and work for a nonprofit organization",1,1,29.61187325845227,8.092336179109541
+S654493,Lucas Bennett Smith,2003-06-14,2023-08-01,2027-05-15,MATH,,2.03,40,Good Standing,Female,Pacific Islander,False,2.65,1558,,64748|23846|85476,88542|36511|91459|88180|41578|49459,False,False,False,Activity:Member|Activity:Member,0.7577217576189441,0.931620922952877,Reading/Writing,"1. To become a successful entrepreneur and start their own business
+2. To pursue a career in environmental science and work towards sustainable solutions
+3. To become a software engineer at a leading tech company",2,3,7.750918258708618,3.377660464540182
+S862451,Sophia Reynolds,2000-09-05,2024-08-01,2028-05-15,HIST,,3.13,71,Academic Probation,Non-binary,Asian,True,3.69,1062,22,49367|85218|45521|47591|79741,36511|16098|37885|17554|59713|13039|90434|78068,False,True,True,,0.7697080648410165,0.8432596370554944,Reading/Writing,"1. Become a successful entrepreneur and start a business in their chosen industry.
+2. Pursue further education and obtain a master's or doctoral degree in their field of study.
+3. Secure a position at a leading company in their field and work towards becoming a senior executive.",3,3,17.874317076555037,
+S416459,Olivia Parker-Smith,2004-01-01,2024-08-01,2028-05-15,BIO,HIST,2.26,59,Academic Probation,Other,African American,True,3.26,,,66602|41090|51861|94308,15052|78068|49367|13855|44495|17018|39310|64891,False,True,True,Name: Creative Minds Club:Role: Marketing Coordinator|Activity:Member,0.8130528061794392,0.821785121842166,Kinesthetic,"1. Become a software engineer at a leading tech company
+2. Pursue a career in environmental research and conservation
+3. Work towards becoming a successful entrepreneur in the fashion industry",6,0,25.52481841448858,5.704633884739154
+S974955,Emily Harrison Smith,2005-11-24,2024-08-01,2028-05-15,HIST,,3.95,67,Academic Warning,Other,Pacific Islander,False,3.58,1259,,51861|90434|79741|41578|15052,49367|64891|15545|49740|68325|65206,True,True,True,Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member|Activity:Member,0.7823671564604022,0.879373084931208,Auditory,"1. Become a successful entrepreneur and start a business in their field of interest.
+2. Obtain a leadership position in a top company within their industry.
+3. Pursue further education and research opportunities to become a subject matter expert in their field.",8,1,25.533339840396106,12.961636143072312
+S230141,Cassandra Parker,1999-09-09,2020-08-01,2024-05-15,ENG,CHEM,3.35,112,Good Standing,Male,Other,False,2.93,1399,,44495|51212|33652|48939|63396,13039|62128|48939|94308|82386|78858,True,False,True,Activity Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member|Activity:Member,0.7124531141199765,0.9458307730464189,Reading/Writing,"1. To become a successful entrepreneur and start their own business 
+2. To pursue a career in medicine and become a doctor 
+3. To work in the field of environmental conservation and make a positive impact on the planet",5,0,8.510975550380754,6.4992713260464825
+S320525,Sophia Rodriguez,2001-04-06,2023-08-01,2027-05-15,CHEM,,2.25,102,Good Standing,Male,Other,False,2.61,,20,41090|33652|36511|41578|13043,17292|49740|58662|34767|23846,True,True,False,"""Global Outreach Initiative:"" Event Coordinator",0.9484871572738702,0.7222665209262478,Auditory,"1. Become a successful entrepreneur and start a business in their field of interest.
+2. Obtain a leadership position in a multinational corporation and work on global business initiatives.
+3. Pursue further education and research opportunities to become a subject matter expert in their chosen field.",6,0,27.496040251815383,17.503669707003112
+S681671,Alexandra Reynolds,2005-11-01,2022-08-01,2026-05-15,CS,,3.22,97,Academic Probation,Other,African American,True,3.77,1135,,92909|55791|85442|91364,20582|58662|44708|83425|44495|40934|32574,True,True,True,Activity Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member|Name: Green Earth Warriors Club:Role: Sustainability Officer,0.7143860187031407,0.7994820925569949,Auditory,"1. To become a successful entrepreneur and start their own business
+2. To pursue a career in medicine and become a doctor
+3. To work in the field of environmental conservation and sustainability",10,3,10.56118410188672,
+S422135,Elena Rodriguez,2006-07-06,2024-08-01,2028-05-15,MATH,,4.0,48,Good Standing,Non-binary,Other,False,3.98,1109,,45446|49367|44708|91364|40934,50608|63396|39872|24288|82635|65260|41578|41090|55791|90434,True,False,False,Activity:Member|Activity:Member|Name: Global Citizenship Club:Role: Public Relations Officer,0.7675737355591207,0.7816623168614045,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in public health and work towards improving healthcare systems.
+3. To become a data scientist and analyze big data to drive business decisions.",8,1,8.049939175342095,13.97939841250972
+S820215,Olivia Rodriguez,2000-03-26,2020-08-01,2024-05-15,PHYS,PHYS,3.97,15,Academic Probation,Non-binary,Asian,False,3.37,1504,,20345|82635|17292,13043|73890|17292|69254|78068|92909|64891,True,False,False,Activity:Member|Activity:Member|Adventure Seekers Club:Treasurer,0.9097683001647621,0.6022015349017977,Reading/Writing,"1. Secure a job in a reputable marketing firm and work towards becoming a marketing manager.
+2. Start a business in the technology sector and become a successful entrepreneur.
+3. Pursue further education by enrolling in a graduate program to specialize in a specific field of study.",1,1,11.762288756092325,
+S961938,Cameron Thompson,2004-02-17,2023-08-01,2027-05-15,HIST,ECON,2.51,21,Academic Probation,Non-binary,Native American,True,3.97,1501,,65206|44495|18937|50608|17554,18937|39526|16098|48939|68325,True,False,False,Activity Name: Tech Innovators Club:Role: Chief Technology Officer|Activity Name: Global Connections Club:Role: Vice President of Marketing and Communications|Activity Name: Global Perspectives Club:Role: Treasurer,0.8034876518351212,0.8475425316341262,Kinesthetic,"1. To become a successful software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a marketing manager
+3. To work towards becoming a licensed psychologist and open a private practice",10,4,5.583796276590867,
+S114402,Sophia Jones,2000-08-05,2020-08-01,2024-05-15,ECON,MATH,3.4,97,Academic Probation,Non-binary,Other,False,2.7,1145,,34767|68325|58662,51861|88542|78068|55791|45521|37885|26840|91459|65904|51212,False,False,False,Activity:Member|Activity Name: Tech Innovators Club:Student Role: Chief Technology Officer|Activity:Member,0.7971373532995081,0.9144461429156242,Visual,"1. Become a successful entrepreneur and start their own business
+2. Work in a leadership position at a top-tier company in their industry
+3. Pursue further education and research in their field to become a subject matter expert",8,0,9.394611893536066,
+S967148,Emily Thompson,2005-12-24,2024-08-01,2028-05-15,CHEM,,2.06,32,Academic Probation,Male,Asian,False,3.22,1445,26,58662|91459|80475,37885|65260|41090|46472|57707,False,True,True,,0.8161563925640677,0.6057507707815102,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in a non-profit organization and make a positive impact in their community.",5,1,6.942627651471337,13.112602385347117
+S187187,Ava Reynolds,2006-12-01,2021-08-01,2025-05-15,CS,MATH,2.83,103,Academic Warning,Female,African American,True,3.03,1230,,30891|67607|49459|31444,41665|80475|60141|70424|39526|41578|33836,False,True,True,"""Tech Innovators Club:Marketing Coordinator""|Name: Future Leaders Society:Role: Public Relations Officer",0.8191093787994723,0.6675431161577415,Reading/Writing,"1. Become a successful marketing manager at a leading global corporation.
+2. Establish a successful startup in the technology industry.
+3. Pursue a career in environmental conservation and work for a non-profit organization.",7,0,17.699181366185677,
+S760004,Elena Rodriguez,2006-02-09,2022-08-01,2026-05-15,CHEM,,3.02,119,Academic Probation,Female,Asian,True,3.6,1474,,82635|83425|60141,85218|16098|58662|94308|33652|67607|65260,False,False,True,Activity:Member|Activity:Member,0.9107889036323733,0.9342221157080799,Kinesthetic,"1. To become a successful entrepreneur and start a business in their field of interest.
+2. To pursue further education such as a master's degree or a Ph.D. in order to become an expert in their chosen field.
+3. To secure a position at a reputable company and work their way up to a leadership role.",8,3,25.444182837485407,2.4501681617644078
+S580344,Clara Thompson,2003-10-22,2022-08-01,2026-05-15,MATH,,2.67,53,Good Standing,Other,African American,True,3.89,,,33652|88542|94308|79741,49740|60141|41090|24288|49459|51861|65904|35271|44495,True,False,True,Activity:Member,0.7821459377329623,0.7289355529690437,Auditory,"1. To become a successful marketing manager at a leading company
+2. To pursue a career in research and development in the field of renewable energy
+3. To establish a nonprofit organization focused on providing education and resources to underprivileged communities",7,1,11.318158253246366,10.15111962981846
+S370436,Emily Rodriguez,2003-11-14,2020-08-01,2024-05-15,CS,ENG,3.12,57,Good Standing,Non-binary,Other,True,3.47,,,70424|78068|82952,60530|15052|69254|92738|33836|68325|48939,True,False,False,Activity:Member|Adventure Seekers Club:Social Media Coordinator,0.7517600033477876,0.9779608242548992,Reading/Writing,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in healthcare and become a doctor or nurse.
+3. To work in the field of environmental sustainability and contribute to positive change.",1,3,27.609492877855285,
+S334944,Emily Thompson,2002-07-23,2023-08-01,2027-05-15,ENG,,2.6,92,Academic Warning,Other,Caucasian,False,2.87,1237,,16098|30891|45446,37920|55791|91459|13043|37885|65206,True,True,True,,0.8341835075036943,0.9818695174096849,Visual,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in environmental science and work towards sustainability efforts.
+3. To become a human rights lawyer and advocate for social justice.",9,4,9.22649108916335,
+S329723,Olivia Bennett Smith,1999-01-16,2022-08-01,2026-05-15,MATH,,2.97,7,Good Standing,Other,Hispanic,True,3.15,1490,32,16098|13855|50608|65206,53326|64891|78068|37885|51610|92909|18937|17931|64748,True,False,False,Activity Name: Global Impact Society:Role: Event Coordinator|Activity:Member|Activity:Member,0.9256430730466474,0.9453616086030961,Kinesthetic,"1. Become a successful software engineer at a leading tech company.
+2. Establish a career in environmental sustainability and work towards creating a more sustainable future.
+3. Pursue a career in healthcare as a doctor or nurse| providing compassionate care to patients.",10,3,13.473795707725643,19.101553583759028
+S739117,Liam Johnson Smith,2001-03-23,2020-08-01,2024-05-15,CS,,2.79,105,Academic Warning,Male,Caucasian,True,2.96,1522,,24288|18937|79741|88542|39310,82952|35271|88542|33652|67607,False,True,False,Name: Global Impact Initiative:Role: Project Manager,0.8795036456317551,0.8911837308181276,Reading/Writing,"1. To become a successful marketing manager in a multinational corporation.
+2. To pursue a career in environmental science research and contribute to sustainable development initiatives.
+3. To establish a start-up company in the technology sector and become an entrepreneur.",0,5,11.632353781899326,9.209352821510365
+S613196,Lily Thompson,2006-07-05,2021-08-01,2025-05-15,HIST,HIST,3.39,50,Good Standing,Other,Caucasian,False,3.71,1454,28,26840|78858|17292|91459,39310|49367|51610|51861|35271|52813|37885|24288,False,False,False,Name: Creative Minds Club:Role: Vice President|Name: Tech Innovators Club:Role: Marketing Coordinator|Activity Name: Global Impact Club:Student Role: Event Coordinator,0.8909138555268554,0.65171766937529,Visual,"1. Becoming a successful entrepreneur and starting their own business
+2. Pursuing a career in healthcare as a physician or nurse
+3. Working in the field of renewable energy as an engineer or researcher",7,2,28.929475375509316,3.4399630879728904
+S444971,Elena Rodriguez,2001-01-06,2022-08-01,2026-05-15,MATH,ECON,3.71,111,Good Standing,Female,African American,True,2.67,1197,,17018|50608|31444|92909,55791|13043|64891|50608|23846,False,False,True,,0.8071952704996241,0.8930194662238651,Kinesthetic,"1. To become a successful entrepreneur and start their own business
+2. To pursue a career in medicine and become a doctor
+3. To work in the field of environmental conservation and make a positive impact on the planet",7,4,11.79480176058242,10.992510608512289
+S855734,Alexis Morgan Thompson,2000-03-01,2021-08-01,2025-05-15,CHEM,,2.35,0,Academic Warning,Other,African American,True,3.95,,20,17292|59713|91459,17018|41578|88180|68325|92738|65260|18937|64891|41665,True,False,False,Activity Name: Tech Innovators Club:Role: Chief Technology Officer,0.8435958521537179,0.8708634980847014,Reading/Writing,"1. Become a successful software engineer at a renowned tech company.
+2. Establish a career in environmental science and work towards sustainability initiatives.
+3. Pursue a career in healthcare as a registered nurse specializing in critical care.",5,0,18.686329122274422,
+S145823,Liam Johnson,2005-09-13,2024-08-01,2028-05-15,HIST,,2.58,24,Academic Probation,Other,Other,False,3.73,1587,22,85218|83792|34767|97198|48939,33836|51212|60141|55791|18937|13043|34767|73890|49459,False,False,True,,0.8947407327089371,0.8718482160052714,Visual,"1. To become a software developer at a leading tech company
+2. To pursue a career in environmental science research
+3. To work in marketing for a global fashion brand",9,0,25.64884310708673,9.965135659740286
+S531906,Aria Nguyen,1999-04-25,2021-08-01,2025-05-15,MATH,PHYS,3.8,39,Good Standing,Other,Asian,False,3.14,1030,23,50608|88542|40934|26840|79741,47591|66602|83425|37920|35271|50608|60530,False,False,True,Activity:Member|Name: Tech Innovators Club:Role: Chief Technology Officer,0.9145998123967575,0.7843482039800225,Auditory,"1. To become a software developer at a leading tech company
+2. To pursue a career in environmental sustainability consulting
+3. To work as a marketing manager for a global corporation",10,5,15.887749869721613,
+S980560,Lena Rodriguez,2006-06-21,2024-08-01,2028-05-15,MATH,,3.85,34,Good Standing,Female,African American,True,3.09,1520,,24288|50608|94308|49740,60141|51861|44708|23846|49367|50608|13043|78858|20582|63396,False,True,True,Activity:Member,0.7559766046817321,0.652219684826573,Reading/Writing,"1. To become a successful software developer at a leading tech company
+2. To pursue a career in environmental science and work towards sustainable solutions
+3. To establish a business in the fashion industry and become a successful entrepreneur",10,0,24.463282021026842,10.20005548034912
+S327600,Alexandra Nguyen,1999-06-05,2020-08-01,2024-05-15,BIO,CHEM,3.76,75,Academic Warning,Male,Hispanic,True,2.52,1462,,82386|82635|63396|41090,57707|16098|51861|47509|44495|80475|49459|78858,False,True,True,"Activity:Member|""Global Connections Club:President""|Activity:Member",0.9929620761965574,0.625277029970419,Reading/Writing,"1. Become a successful entrepreneur and start their own business.
+2. Pursue a career in medical research and work towards making significant advancements in healthcare.
+3. Become a professional in the field of environmental conservation and work towards sustainability efforts.",8,2,29.45845069304774,1.1422955609999041
+S545861,Sophia Rodriguez,2004-06-06,2024-08-01,2028-05-15,HIST,,3.5,79,Academic Warning,Male,Other,True,3.54,1298,,15052|97198|78858|60141|63396,83792|67153|44708|15545|66602,True,True,False,Activity:Member,0.7287181099979708,0.9116677447722218,Kinesthetic,"1. Becoming a software engineer at a leading tech company
+2. Pursuing a career in environmental conservation research
+3. Establishing a successful marketing consultancy firm",9,2,15.488168046376542,
+S240290,Leah Thompson,2006-11-15,2024-08-01,2028-05-15,CS,,3.65,110,Academic Probation,Male,Native American,False,3.49,1463,,32970|18937|49459,17018|62128|57707|66602|75519|23846|89322|40934|85442,True,True,False,Name: Creative Minds Club:Role: Marketing Coordinator,0.7455347563122411,0.7823969178689193,Auditory,"1. Becoming a successful marketing manager at a global corporation
+2. Establishing a nonprofit organization to support underprivileged communities
+3. Conducting research in renewable energy technologies to address environmental challenges",6,0,11.345265703745252,13.38153085073377
+S779327,Alexandra Rodriguez,1999-08-27,2020-08-01,2024-05-15,PHYS,,2.9,118,Good Standing,Other,Caucasian,False,3.78,1206,20,83792|52813|51861,17554|67153|91364|58662|17931|51861|60141,True,True,False,,0.9736582306808981,0.6840665621940214,Kinesthetic,"1. Become a successful entrepreneur and start their own business.
+2. Attain a leadership position in a multinational corporation.
+3. Pursue a career in research and academia| aiming to become a professor in their field of study.",7,1,24.574602077288468,
+S676706,Emily Johnson-Smith,2003-09-20,2022-08-01,2026-05-15,PHYS,,2.57,47,Academic Warning,Female,Native American,True,3.18,1173,,17129|64891|57707|13043|49740,49459|45521|41090|13855|88542|41665|92738|26616,False,True,True,,0.7219791816083673,0.9605887343794224,Kinesthetic,"1. Become a successful entrepreneur and start their own business
+2. Pursue a career in research and become a leading expert in their field
+3. Secure a position at a top company in their desired industry and work their way up to a leadership role",4,1,17.333371250630627,
+S400474,Alexandra Nguyen,2000-01-20,2023-08-01,2027-05-15,BIO,MATH,2.48,77,Good Standing,Female,African American,False,2.51,1466,,13039|57707|66602|58662,55791|47509|36511|45521|45446|85442|67607|39310,True,True,True,Activity Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member,0.767008366730434,0.914995090097669,Reading/Writing,"1. To become a software engineer at a leading tech company
+2. To pursue a career in environmental sustainability research
+3. To work as a marketing manager for a global corporation",9,1,20.46380088145018,14.221710190366343
+S151103,Lilyana Rivera,2003-09-03,2020-08-01,2024-05-15,BIO,,2.51,49,Good Standing,Male,Native American,False,3.24,,30,44708|82952|47591|46472,63396|44708|41578|15545|41665|90434|50608|82095,True,True,False,Activity:Member|Activity:Member|Name: Global Awareness Club:Role: Treasurer,0.8579521005283894,0.711821256632521,Auditory,"1. Become a successful entrepreneur and start their own business.
+2. Pursue a career in research and make significant contributions to their field of study.
+3. Work in the non-profit sector and make a positive impact on society.",4,2,25.336362069506027,
+S924174,Olivia Bennett-Smith,2003-04-08,2020-08-01,2024-05-15,MATH,,2.41,59,Academic Warning,Male,Asian,True,3.9,1561,,17554|37920|44708,67153|31444|82952|64891|89322,False,True,True,Name: Tech Titans Club:Role: Social Media Coordinator|Activity: Tech Innovators Club:Role: Social Media Coordinator,0.7688811740809662,0.8485197850296397,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in scientific research and make significant contributions to their field.
+3. To become a leading expert in sustainable development and work towards creating a more environmentally friendly world.",3,1,18.895292310346548,3.1134280096104594
+S347817,Sophia Johnson,2002-06-21,2021-08-01,2025-05-15,PHYS,BIO,3.96,55,Good Standing,Other,Other,False,3.95,,,82635|69254|82095,37885|34767|85476|44708|65904|62024|32574,False,False,True,Activity Name: Creative Minds Club:Student Role: Event Coordinator|Name: Future Entrepreneurs Society:Role: Marketing Coordinator,0.8585282610156477,0.6011559428271761,Reading/Writing,"1. Become a successful entrepreneur and start their own business.
+2. Work in the field of environmental sustainability and contribute to creating a more eco-friendly world.
+3. Pursue a career in data science and utilize data analytics to drive business decisions.",6,4,16.051138219201654,
+S496507,Emma Thompson,2003-01-16,2022-08-01,2026-05-15,ECON,,3.59,13,Good Standing,Female,African American,False,2.84,,,58662|17018|34767|65904,85442|92738|62024|30891|20582|99488,False,True,True,Activity:Member,0.7421845688166184,0.9951120412134145,Kinesthetic,"1. Pursuing a career in data science or artificial intelligence.
+2. Becoming a successful entrepreneur in the tech industry.
+3. Working in a leadership role at a non-profit organization focused on social justice issues.",10,2,10.792093270045237,2.791460900041145
+S105484,Emily Johnson,2001-03-24,2022-08-01,2026-05-15,ECON,,2.14,89,Good Standing,Other,Hispanic,True,3.09,1392,,89322|17554|67153|41090,41578|17554|67607|57707|82386,True,True,False,EcoWarriors Club:Sustainability Advocate,0.7845108199378418,0.9729946563198133,Auditory,"1. Become a successful entrepreneur and start their own business.
+2. Pursue a career in research and work towards making groundbreaking discoveries in their field.
+3. Become a highly sought-after professional in a specific industry and climb the corporate ladder to reach executive level positions.",7,4,13.666473162637727,
+S486192,Emily Thompson,1999-01-02,2024-08-01,2028-05-15,ECON,PHYS,3.28,79,Academic Warning,Male,Asian,True,3.47,1159,21,15052|53326|80475,17931|26840|49367|64891|16098|32574,True,False,False,"Activity:Member|Name: ""Tech Innovators Club"":Role: Marketing Coordinator|Activity:Member",0.9969081688507555,0.6346205531054987,Visual,"1. Becoming a successful entrepreneur and starting their own business
+2. Pursuing a career in scientific research and making innovative discoveries
+3. Working in international development to help improve the lives of people in developing countries",1,4,5.802500081316793,
+S692051,Alexandra Roberts,2005-05-07,2023-08-01,2027-05-15,CHEM,,3.92,1,Academic Probation,Other,Caucasian,False,3.17,1048,28,36511|68325|91459,37885|67153|16098|47591|88180,True,True,False,,0.7688786328166545,0.922889540940478,Kinesthetic,"1. To become a successful software engineer at a leading tech company
+2. To work in international development and make a positive impact on global issues
+3. To pursue a career in healthcare administration and improve the efficiency of healthcare delivery systems",9,2,29.23892215144394,5.492425430768684
+S315778,Sophia Rodriguez,2005-08-03,2023-08-01,2027-05-15,PHYS,HIST,3.0,24,Academic Probation,Non-binary,Hispanic,True,3.48,,,30891|92909|65904|65260,79821|60530|49740|35271|83792|75519|31444|51861|17129|65206,True,True,False,Activity:Member|Name: Tech Innovators Club:Role: Vice President of Marketing|Activity Name: Global Ambassadors Club:Role: Social Media Coordinator,0.8512326807199116,0.8243718918797224,Kinesthetic,"1. To become a successful software developer at a leading tech company.
+2. To pursue a career in environmental sustainability and work towards creating a more sustainable future.
+3. To become a lawyer specializing in human rights law and advocate for marginalized communities.",10,2,15.925116524949507,
+S647769,Ava Thompson,2000-08-10,2023-08-01,2027-05-15,MATH,,3.33,112,Academic Probation,Female,Hispanic,True,2.7,1501,,78858|45521|17018,92909|34767|75519|15052|68325,True,False,False,,0.7107802584083811,0.9414511379847758,Reading/Writing,"1. To become a software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a brand manager
+3. To work in healthcare administration and climb the ranks to become a hospital administrator",4,1,24.89249733480234,
+S906566,Natalie Thompson,2003-01-10,2021-08-01,2025-05-15,CS,,2.45,112,Academic Probation,Other,Asian,False,3.59,1050,,13039|79741|45446|30891|92909,26616|91459|39872|60141|67607|79821|97198,True,False,True,Name: Creative Minds Club:Role: Event Coordinator|Activity Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member,0.7727611749840588,0.6564914153527243,Visual,"1. To become a software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a marketing director
+3. To establish a successful business in the field of sustainable fashion",2,1,17.225277463075212,15.840860734702938
+S500467,Gabriella Lopez,1999-12-10,2022-08-01,2026-05-15,MATH,,2.72,3,Good Standing,Non-binary,Native American,True,2.86,1023,,55791|79741|41578|69254|48939,65904|40934|49740|17129|37920,True,True,False,Activity:Member,0.8724280916213671,0.9873840902771415,Visual,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in environmental science and work towards sustainability efforts.
+3. To become a respected lawyer and advocate for social justice.",7,3,25.942000511633342,9.248989143530235
+S245618,Aria Thompson,2003-10-13,2022-08-01,2026-05-15,ECON,,2.29,17,Good Standing,Non-binary,African American,False,3.09,1086,,53326|33836|64891|20345|52813,92909|41090|67607|60530|82386|20345|47509|49367|51212,True,False,False,Activity Name: Eco Warriors Club:Role: Sustainability Officer|Activity:Member,0.9357760776810307,0.7381124352006523,Reading/Writing,"1. To become a successful software engineer at a leading tech company.
+2. To pursue a career in environmental advocacy and work towards sustainable development.
+3. To establish a startup company in the healthcare industry focused on innovative solutions for patient care.",6,0,19.66567365530889,
+S310719,Sophia Ramirez,2005-03-05,2022-08-01,2026-05-15,CS,,2.49,95,Good Standing,Other,African American,False,3.36,1280,,57707|62024|67607,49367|82952|13039|65260|59713|51861|26616|47591|26840|78858,True,True,True,Activity:Member|Activity:Member,0.7096703536654777,0.6275915928648729,Auditory,"1. To become a software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a brand manager
+3. To work in public policy and make a positive impact in government",6,5,21.651533698185357,10.89523379578157
+S686718,Lilyana Patel,2002-02-28,2022-08-01,2026-05-15,ENG,,3.5,3,Academic Warning,Non-binary,Caucasian,True,2.86,1161,,16098|26616|35271|39310|49367,15545|83792|36511|33652|89322|37885|79741,False,False,True,Name: Tech Innovators Club:Role: Chief Marketing Officer|Activity Name: Global Ambassadors Club:Role: Event Coordinator,0.8770306825062668,0.9459536040347738,Reading/Writing,"1. Become a successful software engineer at a leading tech company
+2. Open a small business in the fashion industry
+3. Work as a marketing manager for a global corporation",1,4,23.821769531991468,19.3175788898243
+S795757,Samantha Johnson,1999-03-02,2021-08-01,2025-05-15,BIO,,2.75,69,Good Standing,Non-binary,Pacific Islander,False,3.01,1423,,69254|45521|47509|13039|52813,67153|62024|62128|49740|83792,False,True,False,Activity Name: Sustainable Solutions Club:Role: Communication Officer|Name: Creative Minds Club:Role: Marketing Coordinator,0.7453920748283839,0.8215549713338616,Auditory,"1. Become a successful software engineer at a leading tech company.
+2. Establish a career in marketing and eventually become a marketing director.
+3. Pursue a career in healthcare as a registered nurse specializing in critical care.",1,4,9.303438361906897,4.790796210287123
+S361604,Ava Thompson,2005-08-25,2020-08-01,2024-05-15,BIO,,3.63,5,Academic Warning,Female,Asian,True,3.25,,,65904|79821|51212,67607|37885|85442|39526|90434|88180|36511|64748|82635|44495,False,False,False,Activity:Member|Activity:Member|Name: Tech Innovators Club:Role: Project Manager,0.8751797358190011,0.9263969322316123,Visual,"1. Becoming a successful entrepreneur and starting their own business.
+2. Pursuing a career in healthcare as a doctor or nurse.
+3. Working in the field of environmental conservation and sustainability.",9,0,25.037220154991857,
+S369292,Emily Rodriguez,2000-12-20,2020-08-01,2024-05-15,CS,,2.28,106,Good Standing,Male,Native American,True,3.6,1070,,39872|65904|37885|99488|44495,85442|64891|62128|48939|60530|65260|13855|32574|34767|26616,True,False,True,Activity:Member|Activity Name: Tech Innovators Club:Role: Project Manager,0.9068824293377841,0.908038365593347,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of sustainable energy and help address environmental challenges.",1,1,26.41160364373175,
+S929999,Lilyana Nguyen,2000-07-07,2022-08-01,2026-05-15,ECON,,2.32,92,Good Standing,Other,Caucasian,False,3.13,1087,,47509|85218|51861|78068|92909,85218|94308|82952|13043|17931|39872,True,False,True,Name: Tech Innovators Club:Role: Social Media Manager|Name: Innovation League:Role: Marketing Coordinator|Activity:Member,0.9812847631283542,0.7248769875121945,Visual,"1. To become a successful software engineer at a leading tech company.
+2. To pursue a career in environmental sustainability and work towards creating a more sustainable future.
+3. To become a marketing manager for a global fashion brand and contribute to the growth of the company.",1,5,28.994705993567013,
+S745468,Katherine Davis,2000-03-06,2021-08-01,2025-05-15,ECON,ENG,2.51,5,Good Standing,Non-binary,Native American,False,3.69,,,34767|79821|36511|89322|26616,82952|49367|65904|16098|41665|51212,True,False,True,Name: Tech Innovators Club:Role: Marketing Coordinator|Activity:Member|Activity:Member,0.9358194679018936,0.9081265860399604,Reading/Writing,"1. Landing a job in the field of marketing with a focus on digital advertising
+2. Pursuing a career in environmental science research
+3. Starting a business in the field of sustainable fashion",0,5,5.024472210961821,
+S323349,Emily Rodriguez,1999-05-18,2020-08-01,2024-05-15,ENG,,3.18,61,Academic Warning,Other,Native American,False,2.57,1220,,33652|17018|47509,55791|45521|91364|50608|64748|65904,False,False,False,Activity Name: Global Awareness Club:Role: Event Coordinator|Activity:Member|Name: Global Awareness Club:Role: President,0.8696235190159736,0.9278715161459785,Auditory,"1. Become a successful entrepreneur and start their own business.
+2. Pursue a career in healthcare as a doctor or nurse.
+3. Work in the field of environmental conservation and sustainability.",1,5,8.714130616322342,0.3633549698934657
+S964341,Olivia Bennett-Smith,2005-06-11,2021-08-01,2025-05-15,MATH,,2.2,74,Good Standing,Female,Caucasian,False,3.33,1566,,13855|20345|17018|44708|60141,50608|88180|45446|52813|15545,True,True,False,,0.9374665142955408,0.7734268714425613,Auditory,"1. Become a successful entrepreneur and start their own business.
+2. Attain a leadership position in a multinational corporation.
+3. Pursue a career in research and academia as a professor or researcher.",3,1,27.683040017861078,4.036125842593046
+S281087,Ava Thompson,2006-06-12,2023-08-01,2027-05-15,HIST,,2.44,8,Academic Probation,Female,Native American,True,3.09,,35,92738|88542|48939,75519|13043|53326|65904|57707|58662|64748,False,True,True,Activity:Member|Name: Creative Minds Society:Role: Marketing Coordinator|Activity:Member,0.8583149045524929,0.8625759600133622,Kinesthetic,"1. Becoming a successful marketing manager at a top advertising agency
+2. Launching a tech startup and becoming a successful entrepreneur
+3. Pursuing a career in environmental science and working for a conservation organization",6,5,18.5232373809673,
+S427318,Emily Rodriguez,2004-11-03,2021-08-01,2025-05-15,ECON,HIST,2.98,108,Academic Probation,Male,Native American,False,2.54,1545,32,65260|39872|44708|39310,67153|49740|39526|44495|32574|45446|82635,False,True,True,,0.7422841289159521,0.6167599369172327,Auditory,"1. Becoming a software engineer at a leading tech company
+2. Pursuing a career in marketing with a focus on digital strategy
+3. Establishing a successful business in the field of sustainable fashion",6,5,25.12946270553384,17.741866310142
+S637321,Gabriella Lopez,1999-01-28,2020-08-01,2024-05-15,BIO,,3.19,59,Academic Probation,Female,Hispanic,False,3.02,1536,,60141|35271|75519|79821|83792,49459|92738|26616|69254|70424|26840|15545|32970|37885|13855,True,False,True,Activity: Future Entrepreneurs Club:Role: Marketing Director|Activity:Member|Name: Creative Minds Club:Role: Marketing Coordinator,0.8638426139903754,0.8153082272065709,Kinesthetic,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of renewable energy and contribute to sustainability efforts.",1,5,22.028384643478795,8.408868607687168
+S185859,Ava Johnson,2006-05-14,2023-08-01,2027-05-15,ECON,,3.79,66,Good Standing,Male,Native American,True,2.89,,,66602|60530|62128,44495|36511|69254|39872|82952|80475|35271|64748|58662|90434,True,False,True,Activity:Member|Activity:Member|Name: Creative Minds Club:Role: Marketing Coordinator,0.9401717796053879,0.7493071019154187,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To become a respected research scientist in their field of study.
+3. To pursue a career in public service and work towards creating positive social change.",5,4,27.994705873562463,
+S726920,Emily Johnson-Smith,2001-10-13,2020-08-01,2024-05-15,MATH,PHYS,3.63,25,Academic Probation,Male,Pacific Islander,False,3.09,,35,44495|51861|83792|13043|79821,65260|26840|51610|52813|67607|31444|51861,False,True,False,,0.9991659855495137,0.6446233013306654,Reading/Writing,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in environmental science and work towards sustainability efforts.
+3. To become a lawyer and advocate for social justice and human rights.",3,5,26.345717559437848,
+S696213,Alexandra Cooper Smith,2002-08-21,2021-08-01,2025-05-15,ENG,CHEM,2.6,58,Academic Probation,Non-binary,Hispanic,False,3.64,1445,35,17018|40934|31444,70424|82095|18937|92738|37885|68325|85442|39526|13855,False,False,False,Activity:Member,0.9831245578906262,0.7755746510131061,Auditory,"1. To become a successful software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a marketing director
+3. To establish a successful business in the fashion industry",10,4,24.30443679340831,13.765219480781006
+S430096,Ava Reynolds,2002-04-22,2024-08-01,2028-05-15,PHYS,,2.63,77,Academic Warning,Other,Asian,True,3.03,,29,20582|60530|82386,47591|73890|41665|17018|18937|50608|40934|88542|62128,False,True,False,,0.8908374962909236,0.7262813868724662,Reading/Writing,"1. To become a software engineer at a leading tech company
+2. To pursue a career in marketing and eventually become a brand manager
+3. To work in public health and improve healthcare access for underserved communities",5,5,26.03230150555455,
+S493375,Ava Thompson,2000-02-23,2020-08-01,2024-05-15,ECON,ENG,3.79,33,Academic Probation,Female,Native American,True,3.62,1167,,91459|79741|13855,47591|67607|16098|79741|45521|88180,False,False,True,Name: Global Awareness Club:Role: Public Relations Officer|Activity:Member|Activity:Member,0.9690306182309888,0.6064174903815235,Reading/Writing,"1. Become a successful entrepreneur and start their own business.
+2. Work in a leadership role at a multinational corporation.
+3. Pursue a career in research and innovation in a specific field of study.",2,1,24.95291487444033,14.005730130138797
+S407592,Ava Thompson,2003-12-10,2022-08-01,2026-05-15,ENG,,2.63,104,Academic Warning,Male,Native American,True,2.67,1005,,82952|67153|60141,82095|88180|83425|44495|55791|51212|39872|65904|49459|51861,False,False,True,Activity:Member|Activity: Global Outreach Club:Role: Fundraising Coordinator,0.9714764945237064,0.7969337013215231,Kinesthetic,"1. Becoming a successful software engineer at a leading tech company
+2. Pursuing a career in environmental science research and conservation
+3. Establishing a business in the field of sustainable fashion design",7,3,27.84532367255336,
+S311157,Olivia Bennett,2002-10-02,2022-08-01,2026-05-15,MATH,PHYS,2.14,14,Good Standing,Non-binary,Asian,False,3.65,1396,20,97198|92738|33652|52813|32970,73890|17554|15545|83425|49367|89322|48939,True,False,True,Activity:Member|Name: Tech Innovators Club:Role: Chief Technology Officer|Activity:Member,0.9586608535455963,0.6984525340790959,Reading/Writing,"1. To become a successful entrepreneur and start their own business in a niche they are passionate about.
+2. To pursue a career in marketing and work for a leading company to develop innovative campaigns and strategies.
+3. To become a research scientist and make significant contributions to their field of study through groundbreaking research and discoveries.",5,0,29.955825400243473,
+S530579,Elena Rodriguez,1999-01-25,2024-08-01,2028-05-15,PHYS,,3.67,84,Good Standing,Female,Other,False,2.51,1597,,83425|89322|65904|55791,17018|44495|99488|88542|39872|47591,False,True,False,Name: Tech Titans Club:Role: Social Media Coordinator|Activity:Member|Name: Creative Minds Club:Role: Event Coordinator,0.8243917050561895,0.7990828128320596,Auditory,"1. Obtain a position in a top financial firm as a financial analyst.
+2. Pursue a career in software engineering at a leading tech company.
+3. Become a marketing manager for a global corporation.",6,0,21.726733711656596,15.402073074058809
+S824328,Sophia Alvarez,2006-12-11,2024-08-01,2028-05-15,HIST,,3.3,27,Academic Warning,Non-binary,Native American,False,2.89,1581,,51212|73890|17554|90434|85442,44708|18937|17292|16098|13855|46472|65206|13043|17129|26840,False,False,True,Name: Tech Innovators Club:Role: Marketing Coordinator,0.7599516025314044,0.8556299822327962,Reading/Writing,"1. Become a successful entrepreneur and start their own business.
+2. Pursue a career in public health and work towards improving healthcare access in underserved communities.
+3. Secure a job in a prestigious marketing firm and climb the corporate ladder to a leadership position.",10,0,17.079279143642484,
+S940967,Sophia Reynolds,2002-06-24,2021-08-01,2025-05-15,MATH,,2.62,39,Academic Warning,Non-binary,Pacific Islander,True,3.76,1014,23,83792|39526|20582,47591|41578|17931|24288|88180|47509,True,True,False,Activity: Global Citizens Society:Role: Event Coordinator,0.8834895493586731,0.9531843161889083,Reading/Writing,"1. Obtain a graduate degree in their field of study and pursue a career in academia or research.
+2. Secure an internship at a leading company in their industry and eventually work their way up to a management position.
+3. Start their own business or pursue entrepreneurship in a field they are passionate about.",1,4,18.970307331820777,9.037640295790187
+S275146,Alexandra Davis,2003-12-06,2020-08-01,2024-05-15,HIST,,2.97,1,Good Standing,Male,Native American,False,2.82,1467,34,63396|34767|67607,55791|44495|45521|51212|90434|75519|91459|41090|85476|17129,True,True,False,Activity:Member,0.9982501304279968,0.7934079936071298,Auditory,"1. To become a successful entrepreneur and start their own business.
+2. To pursue a career in medicine and become a doctor.
+3. To work in the field of environmental sustainability and make a positive impact on the planet.",7,4,12.236237637949477,18.03319565401737
+S787044,Ava Thompson,2000-06-02,2024-08-01,2028-05-15,HIST,,2.28,107,Academic Probation,Male,Other,False,3.49,,31,20345|16098|88542,31444|78858|49367|26840|65904,False,True,False,Activity:Member|Name: Tech Innovators Club:Role: President,0.8012050646571185,0.9018600371700097,Reading/Writing,"1. To become a successful software engineer at a leading tech company
+2. To pursue a career in environmental sustainability and work towards creating a greener future
+3. To become a marketing manager at a global corporation",8,3,29.6492983268151,1.8514762690542907
+S522941,Cassandra Jones,2006-06-22,2020-08-01,2024-05-15,MATH,,3.24,116,Academic Probation,Other,Caucasian,False,3.17,1347,34,88180|32574|31444|23846,63396|20582|68325|82952|83792|41578,False,False,False,,0.7575212656339556,0.6857409828235163,Auditory,"1. Become a successful entrepreneur and start a business in their field of interest
+2. Attain a leadership position in a multinational corporation
+3. Pursue further education and research in their chosen field to become a subject matter expert",10,1,27.892914432076182,2.552899083794562
+S437743,Ava Johnson,1999-11-28,2024-08-01,2028-05-15,ENG,BIO,3.72,104,Academic Probation,Non-binary,Caucasian,True,3.38,,,62128|85218|85442,89322|62128|49367|18937|83792|65206|47509,True,True,False,"""Global Impact Initiative:Student Ambassador""|Name: Tech Innovators Club:Role: Social Media Coordinator|Activity:Member",0.9456245559904972,0.9713664038726391,Kinesthetic,"1. To become a successful entrepreneur and start their own business
+2. To pursue a career in healthcare and become a doctor
+3. To work in the field of environmental conservation and sustainability",7,0,13.757139709740573,5.484747978954736
+S534961,Sophia Reynolds,1999-08-08,2021-08-01,2025-05-15,PHYS,,2.53,99,Good Standing,Other,Native American,True,2.68,,,78068|78858|89322|92738,39526|37885|78858|57707|92738|53326,False,True,False,Name: Tech Innovators Club:Role: Social Media Coordinator|Name: Creative Minds Club:Role: Marketing Coordinator,0.9710362438592062,0.8235785926891921,Reading/Writing,"1. To become a successful entrepreneur and start their own business
+2. To pursue a career in research and contribute to advancements in their field
+3. To become a respected leader in their chosen profession and make a positive impact in their community",9,0,8.893080673266955,
+S979642,Ava Thompson,2001-02-22,2024-08-01,2028-05-15,PHYS,CHEM,3.25,18,Academic Probation,Female,Native American,False,3.49,,29,70424|39872|79821|67607,85442|13039|91459|37885|44708|67153|49367|46472,True,True,False,Activity:Member|Name: Tech Innovators Club:Role: Marketing Coordinator,0.9233530531482916,0.8178520252011351,Kinesthetic,"1. To work as a software engineer at a leading technology company.
+2. To pursue a career in marketing and eventually become a brand manager for a global corporation.
+3. To work in finance and aim for a position as an investment analyst at a reputable firm.",0,0,24.571791596534187,19.88093932140996
+S867854,Hannah Williams,2000-11-23,2020-08-01,2024-05-15,HIST,,2.84,86,Good Standing,Male,Pacific Islander,True,3.25,1117,,92738|36511|99488|37885|20345,85442|51861|64748|15545|82952|89322|44495|63396|88542,True,False,False,Activity:Member,0.7214033503546192,0.9112116301532973,Visual,"1. Obtain a job in a top financial institution as a financial analyst.
+2. Start a tech startup company focusing on innovative solutions for sustainable living.
+3. Pursue a career in academia and become a professor in the field of environmental science.",4,2,18.309358869270817,
+S641782,Emily Johnson,2001-07-11,2022-08-01,2026-05-15,CHEM,,3.77,79,Academic Probation,Non-binary,Pacific Islander,True,3.47,,,23846|34767|73890|69254,65206|13043|94308|51610|64748|73890|66602|45521|70424,True,False,False,,0.8845846417166346,0.7688179661002874,Reading/Writing,"1. Become a successful entrepreneur and start their own business
+2. Pursue a career in medicine and become a doctor
+3. Work in the field of environmental conservation and become a sustainability specialist.",6,0,14.581943158475104,
+S545977,Olivia Parker,2006-04-19,2022-08-01,2026-05-15,MATH,CHEM,2.84,19,Good Standing,Female,Asian,True,2.71,1482,32,45446|62024|17129|64891,64748|23846|45521|57707|65260|49367,True,True,False,Activity:Member,0.8733882811225636,0.9599191657140071,Reading/Writing,"1. Become a successful entrepreneur and start their own business
+2. Work as a software developer at a tech company
+3. Pursue a career in healthcare as a doctor or nurse",10,1,18.688571185214897,
+S533490,Elena Martinez,2000-05-03,2024-08-01,2028-05-15,CHEM,CHEM,2.33,90,Good Standing,Female,Caucasian,True,3.88,1197,,46472|49740|20582|49459,58662|63396|37920|52813|79821|48939|64748,True,False,False,,0.9421509793887726,0.6253579378845588,Auditory,"1. Become a successful entrepreneur and start a business in their field of interest.
+2. Pursue a career in academia and become a professor in their area of expertise.
+3. Work for a non-profit organization and make a positive impact on society.",0,5,17.12959326052171,
+S190217,Lena Thompson,2005-10-13,2021-08-01,2025-05-15,CHEM,,3.52,76,Academic Probation,Female,Other,True,3.5,1160,,89322|41665|16098,40934|57707|49459|33652|53326|24288|82095|39872,True,False,True,,0.7591398591880298,0.791677058609634,Reading/Writing,"1. Obtain a job as a software engineer at a leading tech company
+2. Start a business in the healthcare industry
+3. Pursue a career in environmental conservation and sustainability",10,3,20.39456774316431,

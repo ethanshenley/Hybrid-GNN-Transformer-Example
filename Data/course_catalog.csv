@@ -1,0 +1,888 @@
+CRN,Code,Title,Department,Credits,Description,Level,Prerequisites,Corequisites,Topics,Required for Majors,Learning Outcomes,Average GPA,Typical Semesters Offered,Difficulty Rating,Workload Hours/Week,Typical Class Size,Online Offering Available
+69254,MATH656,"""Advanced Topics in Algebraic Geometry""",MATH,4.0,"This course delves into advanced topics in algebraic geometry, covering concepts such as schemes, cohomology, and intersection theory. Students will explore modern developments in the field and engage with challenging problems to deepen their understanding of algebraic structures and geometric properties.",600,MATH159|MATH154,,"1. Algebra 
+2. Calculus 
+3. Geometry 
+4. Probability and Statistics 
+5. Number Theory",HIST Major,"1. Solve algebraic equations and inequalities using appropriate techniques and strategies|
+2. Apply principles of calculus to analyze and solve mathematical problems in various contexts|
+3. Demonstrate an understanding of geometric concepts and their applications in real-world situations|
+4. Analyze and interpret data using probability and statistical methods|
+5. Explore and apply number theory concepts to solve mathematical problems efficiently.",2.863217500832427,Summer|Spring|Fall,4.12909614744286,12.020213472438389,52,False
+36511,HIST111,"""The Ancient World: Foundations of Civilization""",HIST,3.0,"This course explores the foundations of ancient civilizations, focusing on key developments in Mesopotamia, Egypt, Greece, and Rome. Students will examine the political, social, economic, and cultural aspects of these societies, gaining a deeper understanding of the origins of modern civilization.",100,,"1. Ancient Civilizations
+2. Medieval Europe
+3. Colonial America
+4. World Wars and 20th Century History
+5. Globalization and Modern World History",HIST Major,"1. Analyze the political structures, social hierarchies, and cultural achievements of ancient civilizations|
+2. Evaluate the impact of religious, economic, and intellectual developments on medieval Europe|
+3. Compare and contrast the economic systems, political ideologies, and social structures of colonial America|
+4. Examine the causes, consequences, and legacies of the World Wars and major events in 20th-century history|
+5. Critically assess the drivers, challenges, and implications of globalization on modern world history.",3.2679304609989024,Summer|Spring|Fall,1.0159195307776736,13.666390402678905,102,False
+37885,PHYS675,"""Advanced Quantum Mechanics and Field Theory""",PHYS,4.0,"This course delves into the advanced topics of quantum mechanics and field theory, exploring the mathematical formalism and concepts underlying these fundamental theories of physics. Students will study topics such as relativistic quantum mechanics, quantum field theory, and applications to particle physics and cosmology. Prerequisite: Quantum Mechanics and Mathematical Methods in Physics.",600,PHYS181|PHYS100,,"1. Classical Mechanics
+2. Electromagnetism
+3. Thermodynamics and Statistical Mechanics
+4. Quantum Mechanics
+5. Optics and Waves",,"1. Analyze and solve complex problems in classical mechanics by applying fundamental principles of motion, forces, and energy conservation|
+2. Evaluate and predict electromagnetic phenomena by utilizing Maxwell's equations and understanding the concepts of electric and magnetic fields|
+3. Apply the laws of thermodynamics and statistical mechanics to analyze and interpret the behavior of macroscopic systems and understand concepts such as entropy and probability distributions|
+4. Analyze and solve quantum mechanical problems by applying the principles of wave-particle duality, quantization of energy, and probabilistic nature of quantum systems|
+5. Demonstrate proficiency in understanding and analyzing optical phenomena and wave behavior, including diffraction, interference, polarization, and the properties of light.",3.2535042777235854,Summer|Spring|Fall,1.1268901713570436,13.221893831503504,170,False
+45446,MATH322,"""Advanced Topics in Algebraic Structures""",MATH,3.0,"This course delves into advanced topics in algebraic structures, exploring concepts such as rings, fields, and modules in depth. Students will study properties and relationships within these structures, as well as applications in various mathematical disciplines.",300,MATH156|MATH204,,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",ECON Major,"1. Apply algebraic concepts to solve complex mathematical problems involving equations, inequalities, and functions|
+2. Analyze and evaluate calculus techniques to model and solve real-world problems involving rates of change and accumulation|
+3. Demonstrate geometric reasoning skills to analyze shapes, angles, and spatial relationships|
+4. Interpret and apply statistical methods to analyze data and make informed decisions|
+5. Explore and apply principles of number theory to analyze properties of integers and prime numbers.",3.0602077683719004,Summer|Spring|Fall,2.6137863971392266,9.005099912562919,153,True
+68325,CS537,"Title: ""Advanced Topics in Machine Learning and Artificial Intelligence""",CS,4.0,"This course delves into advanced concepts and techniques in machine learning and artificial intelligence, with a focus on cutting-edge research and applications. Students will explore topics such as deep learning, reinforcement learning, and natural language processing through hands-on projects and case studies.",500,CS111|CS422,,"1. Programming and problem-solving
+2. Data structures and algorithms
+3. Computer architecture and organization
+4. Database systems
+5. Software engineering and development",PHYS Major|CS Major,"1. Apply programming concepts and problem-solving strategies to develop efficient solutions to a variety of computational challenges|
+2. Analyze, design, and implement data structures and algorithms to solve complex problems efficiently and effectively|
+3. Explain the principles of computer architecture and organization, and apply them to optimize software performance and resource utilization|
+4. Design and implement database systems to store, retrieve, and manipulate data securely and efficiently|
+5. Collaborate in a software engineering team to develop, test, and deploy high-quality software solutions that meet specified requirements and adhere to best practices.",3.267514682557845,Summer|Spring|Fall,1.0191178264781096,10.580888599317891,130,True
+80475,ECON340,"""Global Economic Development and Policy Analysis""",ECON,4.0,"This course provides an in-depth examination of global economic development theories and policies. Students will analyze the impact of various economic policies on development outcomes in different regions, and learn how to apply economic analysis to assess and design effective development strategies.",300,ECON147,MATH322,"1. Microeconomics
+2. Macroeconomics
+3. Econometrics
+4. International Economics
+5. Public Finance",,"1. Apply economic principles to analyze individual consumer behavior and firm decision-making in various market structures|
+2. Evaluate the impact of government policies and external factors on national economies, including economic growth, unemployment, and inflation|
+3. Utilize statistical methods and economic models to analyze and interpret economic data for making informed decisions|
+4. Examine the effects of globalization on trade, exchange rates, and international economic relations|
+5. Analyze government revenue and expenditure policies, taxation systems, and public goods provision in the context of economic efficiency and equity.",3.0253652602536323,Summer|Spring|Fall,2.8818056903566753,7.92237331469021,193,True
+83792,CHEM311,"""Advanced Organic Chemistry: Synthesis and Mechanisms""",CHEM,4.0,"This advanced organic chemistry course delves into the principles of organic synthesis and reaction mechanisms. Students will explore modern techniques and strategies for designing and executing complex organic reactions, with an emphasis on understanding the underlying mechanisms. Prerequisites include a strong foundation in organic chemistry.",300,CHEM274|CHEM113,,"1. Chemical reactions
+2. Atomic structure and periodic trends
+3. Stoichiometry and balancing equations
+4. Thermodynamics and kinetics
+5. Organic chemistry and functional groups",MATH Major|PHYS Major,"1. Analyze chemical reactions to predict products and determine reaction mechanisms|
+2. Explain atomic structure and periodic trends to predict chemical behavior and properties|
+3. Apply stoichiometry principles to balance chemical equations and solve quantitative problems|
+4. Evaluate thermodynamic and kinetic factors to predict the feasibility and rate of chemical reactions|
+5. Identify and classify organic compounds based on functional groups and predict reactivity patterns.",2.9062577442502655,Summer|Spring|Fall,3.798017351921032,6.9454165914656,135,False
+26840,PHYS679,"""Advanced Quantum Mechanics and Applications""",PHYS,3.0,"This course delves into advanced topics in quantum mechanics, including angular momentum, scattering theory, and perturbation theory. Students will explore cutting-edge applications of quantum mechanics in areas such as quantum computation, quantum optics, and condensed matter physics.",600,PHYS100|PHYS207,MATH607,"1. Mechanics
+2. Electricity and Magnetism
+3. Thermodynamics
+4. Optics
+5. Quantum Mechanics",CHEM Major|ENG Major,"1. Apply the principles of mechanics to solve complex problems involving motion, forces, and energy|
+2. Analyze and explain the behavior of electricity and magnetism in various systems and circuits|
+3. Evaluate and interpret the laws of thermodynamics to analyze heat transfer and energy conversion processes|
+4. Demonstrate an understanding of optical phenomena and their applications in different technologies|
+5. Analyze and solve quantum mechanical problems using appropriate mathematical techniques and conceptual frameworks.",3.0829542462961608,Summer|Spring|Fall,2.4388134900295286,14.143099016764037,141,False
+58662,ENG270,"Title: ""Exploring World Literature: Themes and Perspectives""",ENG,4.0,"In this course, students will delve into a diverse selection of world literature, exploring a range of themes and perspectives. Through critical analysis and discussion, students will gain a deeper understanding of different cultures and societies as portrayed in literary works from around the globe. This course will challenge students to think critically about the universal themes that connect humanity across borders and time periods.",200,,,"1. Creative Writing
+2. Literary Analysis
+3. Composition and Rhetoric
+4. Shakespearean Studies
+5. World Literature",HIST Major,"1. Demonstrate the ability to craft original and engaging creative writing pieces across various genres and styles|
+2. Analyze and interpret literary texts with a critical and informed perspective, examining themes, characters, and literary devices in depth|
+3. Develop effective written communication skills by composing well-structured essays and arguments that utilize rhetorical strategies and support claims with evidence|
+4. Evaluate and appreciate the works of William Shakespeare in their historical and cultural contexts, exploring the complexities of his plays and poetry|
+5. Compare and contrast works of world literature from diverse cultures and time periods, recognizing common themes and understanding unique cultural perspectives.",2.7608248021888246,Summer|Spring|Fall,4.916732290855192,10.837850060085918,71,True
+65206,CS111,"""Introduction to Computer Science Fundamentals""",CS,4.0,"This course provides a comprehensive introduction to the fundamental concepts of computer science, including algorithms, data structures, programming languages, and software development. Students will gain hands-on experience with problem-solving and coding in a practical and interactive learning environment.",100,,MATH159,"1. Algorithms and Data Structures
+2. Programming Languages and Paradigms
+3. Software Engineering and Development
+4. Computer Systems and Architecture
+5. Artificial Intelligence and Machine Learning",HIST Major|ECON Major|ENG Major,"- Analyze and implement advanced algorithms and data structures to solve complex computational problems|
+- Evaluate and compare different programming languages and paradigms to effectively design and develop software applications|
+- Apply software engineering principles and best practices to plan, build, and maintain large-scale software systems|
+- Explain the fundamental concepts of computer systems and architecture to optimize software performance and efficiency|
+- Design and develop artificial intelligence and machine learning algorithms to solve real-world problems.",2.964949564801048,Summer|Spring|Fall,3.3465418092227006,14.92811795935212,59,True
+20345,ENG157,"""Introduction to Fiction Writing""",ENG,4.0,"In this course, students will explore the fundamentals of fiction writing, including character development, plot structure, and setting creation. Through various writing exercises and workshops, students will develop their own creative writing skills and produce original works of fiction.",100,,MATH159,"1. Introduction to Literature
+2. Writing and Composition
+3. Literary Analysis
+4. Poetry and Prose
+5. Shakespeare and Renaissance Literature",CHEM Major|MATH Major,"1. Analyze the characteristics and themes of various literary genres and styles, including poetry, prose, and Shakespearean works| 
+2. Demonstrate effective writing and composition skills through the creation of original literary pieces and critical essays| 
+3. Apply literary analysis techniques to interpret and evaluate complex works of literature, emphasizing historical and cultural contexts.",3.164074304367301,Summer|Spring|Fall,1.814813043328452,9.712713566505291,73,False
+49740,PHYS449,"""Quantum Mechanics and Applications""",PHYS,3.0,"This course introduces students to the fundamental principles of quantum mechanics and explores their applications in various fields such as chemistry, physics, and engineering. Topics covered may include wave-particle duality, quantum superposition, quantum entanglement, and quantum computing.",400,,,"1. Classical Mechanics
+2. Thermodynamics and Statistical Mechanics
+3. Electromagnetism
+4. Quantum Mechanics
+5. Astrophysics",ECON Major|CHEM Major,"1. Apply fundamental principles of classical mechanics to analyze and solve problems related to motion, forces, and energy in various physical systems|
+2. Analyze and predict the behavior of macroscopic systems using principles of thermodynamics and statistical mechanics, including concepts of entropy, heat transfer, and phase transitions|
+3. Explain and apply the laws of electromagnetism to describe the interactions of electric and magnetic fields, and to solve problems related to circuits, electromagnetic waves, and electromagnetic radiation|
+4. Utilize the principles of quantum mechanics to understand the behavior of particles at the microscopic level, including wave-particle duality, quantum states, and quantum operators|
+5. Evaluate and apply astrophysical theories and concepts to describe the properties of celestial objects, the structure",3.1984988219344856,Summer|Spring|Fall,1.5500090620424136,8.231237099838687,161,False
+60530,ECON587,"""Advanced Topics in Economic Policy Analysis""",ECON,4.0,"This course delves into advanced economic policy analysis techniques, focusing on real-world applications and case studies. Students will learn how to evaluate the impacts of different policies on economic outcomes and explore the nuances of policy decision-making in various contexts.",500,ECON185|ECON147,,"1. Microeconomics
+2. Macroeconomics
+3. International Economics
+4. Econometrics
+5. Economic Development",CHEM Major|CS Major,"1. Apply microeconomic principles to analyze the behavior of individuals, firms, and markets in various economic situations|
+2. Evaluate the impact of macroeconomic policies on economic indicators such as inflation, unemployment, and economic growth|
+3. Analyze the causes and effects of international trade and financial flows on the global economy|
+4. Utilize econometric techniques to analyze economic data and draw meaningful conclusions|
+5. Assess the factors influencing economic development in different regions and propose strategies for sustainable growth.",3.165143670631309,Summer|Spring|Fall,1.8065871489899314,4.383393629884607,192,True
+47591,CS133,"""Introduction to Programming Fundamentals""",CS,3.0,"This course provides a comprehensive introduction to programming concepts and fundamentals. Students will learn the basics of programming logic, problem-solving techniques, and algorithm development using a high-level programming language. Emphasis will be placed on building a strong foundation for future computer science courses.",100,,,"1. Algorithms and Data Structures
+2. Computer Systems and Architecture
+3. Software Engineering
+4. Artificial Intelligence and Machine Learning
+5. Cybersecurity and Information Assurance",ECON Major|CHEM Major|MATH Major,"1. Analyze and implement efficient algorithms and data structures to solve complex problems in various applications|
+2. Evaluate and design computer systems and architecture components for optimal performance and scalability|
+3. Apply software engineering principles and practices to develop reliable and maintainable software systems|
+4. Implement artificial intelligence and machine learning algorithms to solve real-world problems and optimize decision-making processes|
+5. Assess and implement cybersecurity measures to protect information systems and ensure data integrity and confidentiality.",3.1771087409895995,Summer|Spring|Fall,1.7145481462338457,9.719201052352089,98,True
+92738,ENG310,"""Shakespearean Influences in Modern Literature""",ENG,4.0,"This course explores the enduring impact of William Shakespeare's works on modern literature. Students will analyze how Shakespearean themes, characters, and language continue to influence contemporary writers, providing insights into the evolution of storytelling and literary techniques.",300,ENG157|ENG270,,"1. Creative writing 
+2. Literature analysis 
+3. Rhetoric and composition 
+4. Critical thinking 
+5. Communication skills",BIO Major,"- Demonstrate the ability to craft original and engaging written work in various genres and styles through the practice of creative writing|
+- Analyze and interpret literary texts from different time periods and cultures, while applying various critical theories and methodologies to deepen understanding and appreciation of literature|
+- Develop effective rhetorical strategies and writing techniques to construct clear and persuasive arguments in academic and professional contexts|
+- Apply critical thinking skills to evaluate and synthesize information from diverse sources, leading to well-reasoned and well-supported arguments|
+- Enhance communication skills through effective written and oral presentations, fostering clarity, coherence, and engagement with diverse audiences.",3.064308263508327,Summer|Spring|Fall,2.5822441268590226,4.297110570824469,162,True
+62128,ECON232,"""International Trade and Finance""",ECON,4.0,"This course explores the theories, policies, and practices of international trade and finance. Students will examine the impact of global markets, trade agreements, currency exchange rates, and financial institutions on the world economy. Emphasis will be placed on analyzing the complexities and challenges of conducting business across borders.",200,,CHEM274,"1. Microeconomics
+2. Macroeconomics
+3. Economic Theory
+4. International Economics
+5. Financial Economics",CS Major|ECON Major,"1. Analyze and apply fundamental principles of microeconomics to analyze individual consumer and firm behavior, market equilibrium, and resource allocation|
+2. Evaluate the impact of macroeconomic variables such as GDP, inflation, and unemployment on the overall economy, and assess the effectiveness of various policy tools in managing economic fluctuations|
+3. Demonstrate a deep understanding of economic theory by critically analyzing classical and modern economic theories, models, and concepts, and applying them to real-world economic issues|
+4. Compare and contrast the economic policies and practices of different countries, and analyze the implications of international trade, finance, and globalization on the global economy|
+5. Apply financial economic theories and tools to analyze financial markets, investment decisions, risk management strategies, and the behavior of",3.017609422478912,Summer|Spring|Fall,2.9414659809314463,6.150341607229498,69,True
+17129,MATH536,"""Advanced Topics in Probability Theory""",MATH,3.0,"This advanced course in probability theory delves into intricate topics such as stochastic processes, Markov chains, and martingales. Students will explore complex concepts in probability theory and their applications in various fields such as finance, engineering, and biology.",500,MATH154,CHEM592,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",PHYS Major|ENG Major,"1. Solve complex algebraic equations using appropriate techniques and strategies|
+2. Apply calculus concepts to analyze and solve real-world problems in various fields|
+3. Demonstrate proficiency in geometric reasoning and problem-solving skills|
+4. Analyze and interpret statistical data to make informed decisions and draw meaningful conclusions|
+5. Utilize number theory concepts to explore patterns, relationships, and properties of integers.",2.9914688309731727,Summer|Spring|Fall,3.142547454052522,8.792860342819154,47,False
+33836,MATH554,"""Advanced Topics in Linear Algebra""",MATH,3.0,"This course delves into advanced concepts in linear algebra, focusing on topics such as eigenvalues, eigenvectors, matrix factorizations, and applications to computer science and physics. Students will develop a deeper understanding of linear transformations, vector spaces, and the theoretical underpinnings of the subject.",500,,,"1. Calculus
+2. Algebra
+3. Geometry
+4. Probability and Statistics
+5. Differential Equations",MATH Major,"1. Apply calculus concepts to solve real-world problems, including optimization, related rates, and areas under curves|
+2. Analyze and solve algebraic equations and inequalities, including linear systems, polynomials, and rational expressions|
+3. Demonstrate understanding of geometric principles and the ability to apply them to solve geometric problems|
+4. Interpret and analyze data using probability and statistics concepts, including probability distributions, hypothesis testing, and regression analysis|
+5. Solve differential equations using various methods, including separation of variables, integrating factors, and Laplace transforms.",2.9416064638717523,Summer|Spring|Fall,3.5261041240634388,7.573299104489045,162,True
+82952,ENG355,"""Modern American Literature: Themes and Perspectives""",ENG,3.0,"This course delves into the diverse themes and perspectives found in modern American literature, exploring works from the late 19th century to the present day. Students will analyze how authors address key social, cultural, and historical issues, and examine the evolution of literary styles and movements in the American literary landscape.",300,,BIO347,"1. Literature analysis
+2. Academic writing
+3. Creative writing
+4. English language and grammar
+5. Literary theory and criticism",,"1. Analyze various literary works from different genres and time periods to identify themes, literary devices, and underlying messages|
+2. Produce well-structured academic essays that effectively communicate ideas, support arguments with evidence, and adhere to academic writing conventions|
+3. Demonstrate proficiency in crafting original and engaging creative writing pieces across different genres such as fiction, poetry, and creative nonfiction|
+4. Apply advanced knowledge of English language and grammar rules to effectively communicate ideas, analyze texts, and produce polished written work|
+5. Evaluate literary texts through the application of diverse literary theories and critical perspectives to deepen understanding and interpretation of literature.",3.09553574384436,Summer|Spring|Fall,2.3420327396587637,4.100269133694514,91,True
+63396,ECON588,"Title: ""Advanced Topics in Economic Analysis""",ECON,3.0,"This course delves into advanced economic theories and analytical techniques to provide students with a deeper understanding of economic principles. Topics may include game theory, behavioral economics, econometrics, and more, preparing students for complex economic analysis in various real-world contexts.",500,ECON340|ECON185,ENG514,"1. Microeconomics
+2. Macroeconomics
+3. International Economics
+4. Econometrics
+5. Development Economics",BIO Major,"1. Analyze the fundamental principles of microeconomics to understand how individuals and firms make decisions in a market economy|
+2. Evaluate the impact of macroeconomic policies on national economies, including fiscal and monetary policies, inflation, and unemployment|
+3. Critically assess the role of international trade and finance in the global economy, including exchange rates, trade agreements, and balance of payments|
+4. Apply econometric methods to analyze economic data, test hypotheses, and make informed policy recommendations|
+5. Examine the key theories and issues in development economics, including poverty, inequality, and sustainable development strategies.",2.7897312887313395,Summer|Spring|Fall,4.694374702066618,10.366355767809479,121,True
+17292,HIST410,"""The Cold War and the Global South""",HIST,3.0,"This course explores the impact of the Cold War on countries in the Global South, focusing on political, economic, and cultural dynamics. Students will analyze how Cold War rivalries played out in regions such as Latin America, Africa, and Asia, and examine the lasting legacies of this period on international relations.",400,HIST339,CHEM447,"1. Ancient Civilizations
+2. Medieval History
+3. Modern World History
+4. History of the United States
+5. Globalization and World History",CS Major,"1. Analyze the social, political, and cultural aspects of ancient civilizations to understand their impact on shaping human history|
+2. Evaluate the major events and developments of medieval history in Europe and beyond to examine the interconnectedness of societies during this period|
+3. Compare and contrast key historical events, ideologies, and movements that have shaped the modern world, emphasizing global perspectives and influences|
+4. Critically examine the history of the United States, including key figures, events, and policies, to gain a comprehensive understanding of the nation's evolution|
+5. Assess the impact of globalization on world history, including economic, political, and cultural transformations, to analyze the interconnected nature of contemporary societies.",2.794721949620294,Summer|Spring|Fall,4.655985002920821,4.809391334767241,168,False
+41665,CS518,"""Advanced Topics in Machine Learning""",CS,4.0,"This course delves into advanced concepts and techniques in machine learning, including deep learning, reinforcement learning, and unsupervised learning. Students will explore cutting-edge research and applications while developing a deeper understanding of complex machine learning algorithms.",500,CS138,ECON511,"1. Programming fundamentals
+2. Data structures and algorithms
+3. Database management
+4. Computer networks
+5. Software engineering and design",PHYS Major,"1. Analyze and apply foundational programming concepts and principles to solve real-world problems|
+2. Evaluate, design, and implement data structures and algorithms to optimize efficiency and performance in software development|
+3. Demonstrate proficiency in database management techniques, including data modeling, querying, and normalization|
+4. Explain the principles and protocols of computer networks, and design and troubleshoot network configurations|
+5. Collaborate in a team setting to plan, develop, and test software systems following software engineering best practices and design principles.",2.815861550389172,Summer|Spring|Fall,4.493372689314067,10.025406625664289,134,False
+89322,ENG564,"""Advanced Topics in Modern American Literature and Culture""",ENG,3.0,"This course delves deeply into contemporary American literature and culture, exploring advanced topics such as postmodernism, identity politics, and social justice issues. Students will critically engage with a diverse range of texts and media to analyze the complexities of modern American society.",500,,,"1. Literature analysis and interpretation
+2. Writing skills development
+3. Literary genres and styles
+4. Critical thinking and argumentation
+5. Language and linguistics",PHYS Major|CS Major,"1. Apply advanced techniques in literature analysis to interpret complex texts effectively|
+2. Demonstrate proficiency in developing and refining writing skills across various genres and formats|
+3. Analyze and differentiate between different literary genres and styles, integrating them into written work|
+4. Employ critical thinking skills to construct well-reasoned arguments based on literary analysis|
+5. Evaluate language structures and linguistic features to deepen understanding of texts and communicate effectively.",3.2644287381674535,Summer|Spring|Fall,1.0428558602503477,3.523424330464865,197,False
+51212,BIO613,"""Advanced Topics in Evolutionary Biology""",BIO,4.0,"This course delves into cutting-edge research and discussions in evolutionary biology, exploring advanced concepts such as molecular evolution, phylogenetics, and evolutionary ecology. Students will analyze current literature, conduct independent research projects, and engage in critical thinking to deepen their understanding of the mechanisms driving biological evolution.",600,BIO347,CHEM695,"1. Cell biology
+2. Genetics
+3. Evolution
+4. Ecology
+5. Human anatomy and physiology",CS Major|MATH Major,"1. Analyze the structure and function of cells, including organelles and cellular processes, in order to understand the fundamental principles of cell biology|
+2. Evaluate patterns of inheritance, genetic variation, and molecular mechanisms of gene expression to comprehend the principles of genetics|
+3. Critically assess the processes of evolution, including natural selection and speciation, to explain the diversity of life on Earth|
+4. Apply ecological concepts, such as population dynamics and community interactions, to analyze the relationships between organisms and their environments|
+5. Demonstrate a comprehensive understanding of human anatomy and physiology, including organ systems and physiological processes essential for maintaining homeostasis in the human body.",3.0337211020815267,Summer|Spring|Fall,2.8175299839882593,5.803006923731372,157,True
+34767,CHEM699,"""Advanced Topics in Quantum Chemistry""",CHEM,4.0,"This advanced course delves into the intricate concepts and mathematical tools of quantum chemistry, exploring topics such as molecular orbital theory, electronic structure calculations, and spectroscopic techniques. Students will gain a deeper understanding of the principles governing chemical reactivity and molecular behavior at the quantum level.",600,CHEM311,MATH687,"1. General Chemistry
+2. Organic Chemistry
+3. Physical Chemistry
+4. Inorganic Chemistry
+5. Analytical Chemistry",BIO Major|PHYS Major,"1. Apply fundamental principles of general chemistry to analyze and solve complex chemical problems|
+2. Demonstrate proficiency in naming, synthesizing, and predicting reactions in organic chemistry|
+3. Utilize mathematical and theoretical concepts to explain physical phenomena in chemical systems|
+4. Analyze the properties and behaviors of inorganic compounds based on their structure and bonding|
+5. Develop skills in using various analytical techniques to characterize and quantify chemical substances accurately.",3.0311800071670376,Summer|Spring|Fall,2.8370768679458647,14.033758959197556,124,False
+94308,MATH200,"""Advanced Calculus and Mathematical Analysis""",MATH,5.0,"This course delves deeper into the theory and applications of advanced calculus and mathematical analysis. Topics may include multivariable calculus, differential equations, sequences and series, and rigorous proofs of key theorems in calculus. Students will develop a strong foundation in advanced mathematical techniques essential for further study in mathematics and related fields.",200,MATH154|MATH156,BIO218,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Number Theory",CS Major|PHYS Major,"1. Apply algebraic techniques to solve complex mathematical problems involving equations, inequalities, and operations on polynomials and rational expressions|
+2. Analyze and compute limits, derivatives, and integrals in calculus to model and solve real-world problems in various disciplines|
+3. Utilize geometric principles to solve problems related to shapes, sizes, measurements, and spatial relationships in both two and three dimensions|
+4. Interpret and analyze data using probability and statistical methods to make informed decisions and predictions in various contexts|
+5. Demonstrate an understanding of fundamental concepts in number theory, including prime numbers, divisibility, and modular arithmetic, to solve advanced mathematical problems.",2.916807015468109,Summer|Spring|Fall,3.716869111783774,5.437551056608934,58,True
+46472,MATH616,"""Advanced Topics in Nonlinear Optimization""",MATH,4.0,"This advanced course delves into the theory and applications of nonlinear optimization techniques, exploring topics such as convex optimization, gradient descent methods, and constrained optimization problems. Students will gain a deeper understanding of optimization algorithms and their practical implementations in various fields.",600,,CHEM699,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",CHEM Major|MATH Major,"1. Apply algebraic concepts to solve real-world problems by simplifying expressions, solving equations, and manipulating functions|
+2. Analyze and apply calculus techniques, including differentiation and integration, to solve problems in various fields such as science, engineering, and economics|
+3. Demonstrate proficiency in geometric reasoning and spatial visualization through the analysis of shapes, angles, and theorems|
+4. Interpret and communicate statistical data by utilizing probability distributions, hypothesis testing, and regression analysis|
+5. Utilize linear algebra techniques to solve systems of linear equations, perform matrix operations, and analyze vector spaces.",3.259008987514614,Summer|Spring|Fall,1.0845462498875804,8.780114318880026,174,True
+83425,BIO347,"""Evolutionary Ecology and Behavior""",BIO,3.0,"This course delves into the intricate relationship between ecology and behavior within an evolutionary framework. Students will explore how natural selection shapes behaviors and traits in animals and plants, and how these adaptations influence ecological interactions and species diversity. Through case studies and hands-on research opportunities, students will gain a deep understanding of the dynamic interplay between organisms and their environments.",300,BIO287|BIO218,MATH332,"1. Cell biology
+2. Genetics
+3. Ecology
+4. Evolution
+5. Physiology",HIST Major,"1. Analyze the fundamental principles of cell biology to explain cellular structures and functions|
+2. Apply genetic concepts and techniques to solve problems related to inheritance and genetic variation|
+3. Evaluate ecological relationships and interactions within ecosystems to understand the interconnectedness of organisms and their environment|
+4. Compare and contrast evolutionary processes to illustrate biodiversity and adaptation in living organisms|
+5. Demonstrate an understanding of physiological mechanisms and their role in maintaining homeostasis in living organisms.",2.975612088325058,Summer|Spring|Fall,3.2645223974995505,14.460470935522322,193,False
+13855,PHYS374,"""Advanced Topics in Quantum Mechanics""",PHYS,3.0,"This course delves into advanced topics in quantum mechanics, exploring concepts such as quantum entanglement, quantum computing, and quantum information theory. Students will engage in theoretical discussions and problem-solving exercises to deepen their understanding of this complex and fascinating field of physics.",300,PHYS164|PHYS207,HIST339,"1. Mechanics
+2. Thermodynamics
+3. Electromagnetism
+4. Quantum Mechanics
+5. Astrophysics",PHYS Major,"1. Apply fundamental principles of mechanics to solve complex problems in physics|
+2. Analyze the behavior of systems based on thermodynamic principles and laws|
+3. Evaluate electromagnetic phenomena and their effects on matter and energy|
+4. Explain the principles and mathematical formalism of quantum mechanics|
+5. Interpret and analyze astrophysical phenomena using key concepts from astrophysics.",3.101334649773935,Summer|Spring|Fall,2.2974257709697277,14.878885994752961,142,False
+51610,PHYS135,"""Introduction to Classical Mechanics""",PHYS,3.0,"This course introduces students to the fundamental principles of classical mechanics, including Newton's laws of motion and the conservation of energy and momentum. Through theoretical concepts and problem-solving exercises, students will develop a strong foundation in understanding the motion of objects and systems in the physical world.",100,,,"1. Mechanics
+2. Thermodynamics
+3. Electromagnetism
+4. Quantum mechanics
+5. Astrophysics",CHEM Major|ECON Major|ENG Major,"1. Apply fundamental principles of mechanics to solve complex problems in various physical systems|
+2. Analyze and predict changes in thermodynamic systems using the laws of thermodynamics|
+3. Demonstrate proficiency in applying principles of electromagnetism to understand and analyze electromagnetic phenomena|
+4. Explain key concepts and principles of quantum mechanics and apply them to solve quantum mechanical problems|
+5. Evaluate and analyze astrophysical phenomena using theoretical models and observational data.",2.795765789334944,Summer|Spring|Fall,4.647955466654277,9.898855130714002,97,False
+90434,PHYS699,"""Advanced Topics in Quantum Field Theory""",PHYS,3.0,"This course delves into advanced concepts in quantum field theory, focusing on topics such as renormalization, gauge theories, and symmetry breaking. Students will explore cutting-edge research in the field and develop a deeper understanding of the mathematical and theoretical underpinnings of quantum field theory.",600,PHYS181,,"1. Mechanics
+2. Thermodynamics
+3. Electricity and Magnetism
+4. Quantum Mechanics
+5. Astrophysics",PHYS Major|ENG Major,"1. Analyze and apply fundamental principles of mechanics to solve complex problems in physics|
+2. Evaluate and demonstrate an understanding of thermodynamic concepts and their applications in different systems|
+3. Utilize mathematical techniques to solve problems related to electricity and magnetism in various scenarios|
+4. Explain the key principles and phenomena of quantum mechanics and their implications in modern technology and research|
+5. Critically analyze and interpret the principles of astrophysics to explain the behavior and evolution of celestial objects and systems.",2.9025319531537375,Summer|Spring|Fall,3.826677283432784,11.94102305022907,178,True
+39872,MATH607,"""Advanced Topics in Algebraic Geometry""",MATH,3.0,"This course delves into advanced topics in algebraic geometry, exploring concepts such as schemes, sheaves, and cohomology. Students will study the intersection of algebra and geometry, gaining a deeper understanding of complex geometric structures and their algebraic representations.",600,MATH530,BIO657,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Number Theory",,"1. Apply algebraic principles to solve complex equations and inequalities|
+2. Utilize calculus techniques to analyze functions, derivatives, and integrals in various contexts|
+3. Demonstrate proficiency in solving geometric problems involving shapes, angles, and spatial relationships|
+4. Interpret and analyze data using probability and statistics concepts and tools|
+5. Analyze and apply number theory concepts to understand properties of integers and prime numbers.",2.9890787133125456,Summer|Spring|Fall,3.160932974518878,12.343090977150993,25,False
+35271,CHEM113,"""Introduction to General Chemistry""",CHEM,4.0,"This course provides an overview of the fundamental concepts in general chemistry, including atomic structure, chemical bonding, and stoichiometry. Students will develop a strong foundation in chemical principles through lectures, laboratory experiments, and problem-solving exercises.",100,,CS111,"1. Atomic structure and periodic trends
+2. Chemical bonding and molecular structure
+3. Stoichiometry and chemical reactions
+4. States of matter and intermolecular forces
+5. Thermodynamics and kinetics",CS Major,"1. Analyze the relationship between atomic structure and periodic trends to predict the behavior of elements in the periodic table|
+2. Evaluate the different types of chemical bonding and molecular structures to explain their impact on chemical properties and reactivity|
+3. Apply stoichiometric principles to balance chemical equations and calculate quantities of reactants and products in chemical reactions|
+4. Compare and contrast the various states of matter and explain the role of intermolecular forces in determining their physical properties|
+5. Calculate and interpret thermodynamic and kinetic parameters to predict the direction and rate of chemical reactions.",2.977902810830536,Summer|Spring|Fall,3.2469014551497195,7.597254013711424,171,False
+13043,MATH530,"""Advanced Topics in Algebraic Geometry""",MATH,3.0,"This advanced course in Algebraic Geometry delves into intricate topics such as schemes, sheaves, and cohomology. Students will explore advanced techniques in modern algebraic geometry and gain a deeper understanding of geometric structures and algebraic concepts.",500,MATH154,MATH596,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",CS Major,"1. Apply algebraic concepts to solve complex mathematical problems involving variables and equations|
+2. Analyze functions and their derivatives using calculus techniques to investigate rates of change and optimize solutions|
+3. Demonstrate an understanding of geometric principles and apply them to solve problems in various contexts|
+4. Utilize probability and statistical methods to analyze data, make predictions, and draw meaningful conclusions|
+5. Solve systems of linear equations and perform operations on vectors and matrices in linear algebra to solve real-world problems.",3.2677424494074847,Summer|Spring|Fall,1.0173657737885824,4.491307798336344,173,True
+37920,HIST618,"""The Global Cold War: Superpower Rivalry and the Third World""",HIST,4.0,"This course explores the impact of the Cold War on the developing world, focusing on how the rivalry between the United States and the Soviet Union influenced political, social, and economic dynamics in regions such as Asia, Africa, and Latin America. Students will analyze key events, ideologies, and actors in the Global Cold War to understand its lasting effects on international relations.",600,HIST404|HIST339,,"1. Ancient Civilizations
+2. Medieval Europe
+3. American Revolution
+4. World Wars
+5. Civil Rights Movement",,"1. Analyze the social, political, economic, and cultural characteristics of ancient civilizations to understand their impact on the development of human societies|
+2. Evaluate the key events, figures, and institutions of Medieval Europe in order to grasp the complexities of the time period and its lasting influence on Western history|
+3. Examine the causes, consequences, and significance of the American Revolution in shaping the foundations of the United States and modern democratic societies|
+4. Compare and contrast the origins, strategies, and outcomes of the World Wars to assess their global impact on political boundaries, ideologies, and technologies|
+5. Critically analyze the strategies, tactics, and key figures of the Civil Rights Movement to appreciate its role in advancing social justice and equality in the United States",2.850359731147585,Summer|Spring|Fall,4.228002068095499,12.002766265736575,138,True
+41090,BIO657,"""Advanced Topics in Evolutionary Biology""",BIO,3.0,"This course delves into cutting-edge research in evolutionary biology, exploring topics such as molecular evolution, phylogenetics, and population genetics. Students will analyze recent case studies and engage in discussions on current debates in the field.",600,BIO347,BIO613,"1. Cell Biology
+2. Genetics
+3. Evolution
+4. Ecology
+5. Human Anatomy and Physiology",,"1. Explain the fundamental principles of cell biology, including cell structure, function, and processes such as cellular respiration and cell division|
+2. Apply genetic principles to analyze patterns of inheritance, genetic diseases, and genetic engineering techniques|
+3. Evaluate evidence for evolutionary mechanisms, such as natural selection and genetic drift, and their role in shaping biodiversity|
+4. Analyze ecological concepts, including population dynamics, community interactions, and ecosystem functions, to understand environmental issues and conservation strategies|
+5. Demonstrate a deep understanding of human anatomy and physiology, including organ systems, homeostasis, and the interconnections between structure and function in the human body.",3.1679937862764755,Summer|Spring|Fall,1.7846631824886532,12.001182076253247,81,True
+13039,ENG195,"""Introduction to Fiction Writing""",ENG,3.0,"In this course, students will explore the fundamentals of fiction writing, including character development, plot structure, and narrative techniques. Through workshops and peer feedback, students will hone their creative writing skills and develop original short stories. By studying various styles and genres, students will gain a deeper understanding of the craft of fiction writing.",100,,ENG157,"1. Literary analysis and interpretation
+2. Writing and composition techniques
+3. Communication skills development
+4. Critical thinking and argumentation
+5. Genre studies and literary theory",ECON Major,"1. Analyze and evaluate diverse literary works using appropriate critical frameworks to deepen understanding of themes, characters, and cultural contexts|
+2. Apply advanced writing and composition techniques to craft well-structured and persuasive arguments in various genres and formats|
+3. Demonstrate effective communication skills through oral presentations, written assignments, and class discussions to engage with diverse audiences|
+4. Employ critical thinking skills to construct coherent arguments and support them with evidence from literary texts and theoretical frameworks|
+5. Examine and critique different genres of literature and literary theories to enhance understanding of the ways in which texts are categorized, analyzed, and interpreted.",3.0859428355066996,Summer|Spring|Fall,2.4158243422561583,6.972202035848985,138,False
+91459,CS229,"""Web Development Fundamentals""",CS,4.0,"""Web Development Fundamentals"" introduces students to the foundational concepts of building dynamic websites and web applications. Topics covered include HTML, CSS, JavaScript, and basic principles of responsive design. Students will gain hands-on experience creating and deploying their own web projects.",200,CS173,MATH204,"1. Algorithms and Data Structures
+2. Programming Languages and Paradigms
+3. Software Engineering Principles
+4. Computer Systems and Architecture
+5. Artificial Intelligence and Machine Learning",CS Major,"1. Analyze and evaluate the efficiency and correctness of algorithms and data structures for solving computational problems|
+2. Compare and contrast different programming languages and paradigms to select the most appropriate for a given problem domain|
+3. Apply software engineering principles to design and develop reliable, maintainable, and scalable software systems|
+4. Explain the relationship between computer systems and architecture, and their impact on software performance and design|
+5. Implement and evaluate artificial intelligence and machine learning techniques to solve real-world problems.",3.0538096519473754,Summer|Spring|Fall,2.663002677327879,13.520833172952974,104,False
+33652,CHEM592,"""Advanced Topics in Organic Synthesis""",CHEM,3.0,"This course delves into complex organic synthesis techniques, focusing on advanced strategies and methodologies used in the creation of intricate organic molecules. Students will explore current trends in the field, learning how to design and execute multi-step synthesis plans with a strong emphasis on problem-solving and critical thinking.",500,,MATH596,"1. Chemical bonding
+2. Stoichiometry
+3. Chemical reactions
+4. Organic chemistry
+5. Physical chemistry",,"1. Analyze the different types of chemical bonding and their implications on the properties of compounds|
+2. Apply stoichiometric principles to accurately calculate quantities of reactants and products in chemical reactions|
+3. Predict and interpret the outcomes of various chemical reactions based on reaction mechanisms and thermodynamic principles|
+4. Evaluate the structure, nomenclature, and reactivity of organic compounds in different chemical environments|
+5. Utilize fundamental concepts of thermodynamics and kinetics to explain and predict the behavior of matter in physical systems.",3.0739544878385674,Summer|Spring|Fall,2.5080424012417897,5.844000620910948,187,True
+78068,BIO159,"""Introduction to Cellular Biology""",BIO,3.0,"""Introduction to Cellular Biology"" is a foundational course that explores the structure and function of cells, emphasizing the principles of cell biology and molecular biology. Students will learn about cell organelles, cellular processes, and the role of cells in living organisms, providing a solid understanding of the fundamental unit of life.",100,,,"1. Evolution and Biodiversity
+2. Cell Biology and Genetics
+3. Ecology and Environmental Biology
+4. Physiology and Anatomy
+5. Microbiology and Immunology",CHEM Major|PHYS Major|MATH Major,"1. Analyze the principles of evolution and biodiversity to explain the relationships among different species and their environments|
+2. Evaluate the mechanisms of cell biology and genetics to predict the outcomes of genetic processes and molecular interactions|
+3. Apply ecological and environmental biology concepts to propose sustainable solutions to environmental challenges|
+4. Demonstrate an understanding of the physiological and anatomical structures and functions in living organisms|
+5. Evaluate the role of microbiology and immunology in maintaining health and preventing disease.",2.973414646903901,Summer|Spring|Fall,3.281425793046914,6.591368824558842,177,False
+82386,ECON185,"""Introduction to Microeconomics""",ECON,4.0,"This course provides an introduction to the principles of microeconomics, focusing on the behavior of individual consumers and firms in markets. Students will learn about supply and demand, pricing strategies, market structures, and the role of government in regulating the economy. By the end of the course, students will be able to analyze various economic issues and make informed decisions based on economic theory.",100,,,"1. Microeconomics
+2. Macroeconomics
+3. Economic systems
+4. International trade
+5. Economic development",BIO Major,"1. Analyze the principles of microeconomics to understand individual decision-making, market behavior, and the allocation of resources|
+2. Evaluate the impact of macroeconomic factors such as inflation, unemployment, and fiscal policy on national economies|
+3. Compare and contrast different economic systems, including capitalism, socialism, and mixed economies, to assess their strengths and weaknesses|
+4. Examine the theories and practices of international trade to analyze the benefits and challenges of globalization|
+5. Critically assess the strategies and policies that promote economic development in both developed and developing countries.",2.8331609844219114,Summer|Spring|Fall,4.360300119831448,14.617925317786847,97,True
+91364,CHEM447,"""Advanced Topics in Organic Chemistry""",CHEM,4.0,"In this advanced organic chemistry course, students will delve into complex topics such as stereochemistry, reaction mechanisms, and synthesis strategies. Through lectures, discussions, and hands-on laboratory exercises, students will deepen their understanding of organic chemistry principles and develop advanced problem-solving skills.",400,,HIST410,"1. Atomic structure and periodic trends
+2. Chemical bonding and molecular structure
+3. Chemical reactions and stoichiometry
+4. Thermodynamics and kinetics
+5. Acids and bases| electrochemistry",HIST Major|BIO Major,"1. Analyze the relationship between atomic structure and periodic trends to predict the behavior of elements in the periodic table|
+2. Evaluate different types of chemical bonding and molecular structures to explain the properties and reactivity of compounds|
+3. Apply stoichiometric principles to balance chemical reactions and calculate quantities of reactants and products|
+4. Explain the concepts of thermodynamics and kinetics to predict the direction and rate of chemical reactions|
+5. Demonstrate an understanding of acids and bases, as well as electrochemical processes, to interpret and predict chemical behavior in various systems.",3.122316231071626,Summer|Spring|Fall,2.136028991756726,11.975053897983912,129,False
+39310,CHEM695,"""Advanced Topics in Inorganic Chemistry""",CHEM,3.0,"This advanced course in inorganic chemistry delves into contemporary research topics and recent advances in the field. Students will explore advanced concepts in coordination chemistry, organometallic chemistry, and solid-state chemistry through lectures, discussions, and laboratory exercises.",600,CHEM456|CHEM427,,"1. Organic Chemistry
+2. Inorganic Chemistry
+3. Physical Chemistry
+4. Analytical Chemistry
+5. Biochemistry",BIO Major|ENG Major,"1. Apply fundamental principles of organic chemistry to predict the reactivity and behavior of organic molecules in various chemical reactions|
+2. Analyze the properties and behavior of inorganic compounds based on their atomic and molecular structures in different chemical systems|
+3. Utilize mathematical and theoretical concepts to explain the physical properties and phenomena of chemical systems in physical chemistry|
+4. Demonstrate proficiency in various analytical techniques for qualitative and quantitative analysis of chemical samples in analytical chemistry|
+5. Explain the structure, function, and interactions of biological molecules in living organisms through the lens of biochemistry.",3.0773019394472856,Summer|Spring|Fall,2.4822927734824165,12.242631100609225,176,True
+79821,CHEM572,"""Advanced Topics in Bioinorganic Chemistry""",CHEM,3.0,"This advanced course in bioinorganic chemistry delves into the intricate interplay between inorganic elements and biological systems. Students will explore cutting-edge topics such as metalloproteins, metal-based drugs, and the role of metals in biological processes, gaining a deeper understanding of the essential role of inorganic chemistry in the realm of biochemistry.",500,CHEM447|CHEM113,BIO539,"1. Atomic structure and periodic trends
+2. Chemical bonding and molecular structure
+3. Chemical reactions and stoichiometry
+4. Thermodynamics and kinetics
+5. Organic chemistry and biochemical processes",BIO Major,"1. Analyze the relationship between atomic structure and periodic trends to predict the behavior of elements in the periodic table|
+2. Evaluate different types of chemical bonding and molecular structures to explain the properties of compounds|
+3. Apply principles of chemical reactions and stoichiometry to solve quantitative problems and predict reaction outcomes|
+4. Interpret thermodynamic and kinetic data to predict the direction and rate of chemical reactions|
+5. Demonstrate an understanding of organic chemistry and biochemical processes by explaining the structures and functions of key biomolecules.",2.7538950457719635,Summer|Spring|Fall,4.970038109446429,14.170526149168257,84,False
+65904,ENG683,"""Advanced Topics in Postcolonial Literature""",ENG,4.0,"This course delves into complex themes in postcolonial literature, exploring issues of identity, power dynamics, and resistance in the context of former colonial societies. Students will engage with a range of critical perspectives and in-depth analysis of postcolonial texts to deepen their understanding of the complexities within this literary genre.",600,ENG360|ENG230,,"1. Writing and Composition
+2. Literature Analysis
+3. Critical Thinking and Argumentation
+4. Creative Writing
+5. Rhetoric and Persuasion",,"1. Apply various writing techniques to effectively communicate ideas and information in a clear and organized manner|
+2. Analyze and interpret literary texts to identify themes, symbols, and literary devices, and evaluate their significance within the context of the work and its historical background|
+3. Construct well-reasoned arguments based on evidence and logical reasoning, while critically evaluating different perspectives and supporting claims with sound reasoning and evidence|
+4. Demonstrate proficiency in creative writing by producing original works in various genres and styles, showcasing creativity, imagination, and storytelling skills|
+5. Employ rhetorical strategies to craft persuasive arguments, engage with diverse audiences, and effectively communicate ideas to influence and persuade others.",3.2100037328085187,Summer|Spring|Fall,1.4615097476267702,6.040812747968959,112,False
+47509,ENG230,"""Exploring Literature of the 20th Century""",ENG,5.0,"In this course, students will delve into the diverse and influential literature of the 20th century, examining key works and authors that shaped the literary landscape of the era. Through close reading and critical analysis, students will explore themes, styles, and historical contexts to deepen their understanding of this rich period in literary history.",200,ENG157|ENG195,HIST268,"1. Literature analysis and interpretation
+2. Creative writing techniques
+3. Critical thinking and argumentation
+4. Writing process and revision
+5. Research and citation methods",CHEM Major|MATH Major|HIST Major,"1. Analyze and evaluate various literary works to identify themes, motifs, and literary devices used by authors for effective interpretation and critique|
+2. Apply creative writing techniques such as character development, narrative structure, and descriptive language to produce original and engaging written works|
+3. Construct well-reasoned, evidence-based arguments through critical thinking skills, logic, and persuasion in both written and verbal formats|
+4. Demonstrate proficiency in the writing process by drafting, revising, and editing written pieces for clarity, coherence, and effectiveness|
+5. Employ research strategies to locate relevant sources, integrate information ethically through proper citation methods, and support arguments effectively with credible evidence.",3.063151005680695,Summer|Spring|Fall,2.5911461101484936,13.356920118093681,29,False
+99488,BIO382,"""Evolutionary Ecology: Adaptation and Speciation""",BIO,3.0,"This course explores the mechanisms driving adaptation and speciation in the natural world. Students will delve into the principles of evolutionary ecology, examining how organisms evolve in response to their environment and how new species arise over time. Through lectures, discussions, and hands-on activities, students will gain a deeper understanding of the intricate relationship between ecology and evolution.",300,BIO159,ENG389,"1. Cell Biology
+2. Genetics
+3. Evolutionary Biology
+4. Ecology
+5. Physiology",MATH Major|PHYS Major,"1. Analyze the structure and function of cells, including organelles and cellular processes, in the context of cell biology|
+2. Evaluate the principles of inheritance, genetic variation, and gene expression in genetics|
+3. Compare and contrast the mechanisms of evolutionary change, including natural selection and genetic drift, in evolutionary biology|
+4. Examine the interactions between organisms and their environment, including population dynamics and ecosystems, in ecology|
+5. Explain the physiological mechanisms that govern the functioning of living organisms, including homeostasis and adaptation.",2.961278895850548,Summer|Spring|Fall,3.3747777242265506,12.353986084463532,140,False
+44495,CS173,"""Introduction to Programming Concepts""",CS,5.0,"This course provides an introduction to fundamental programming concepts, such as variables, data types, control structures, and functions. Students will gain hands-on experience writing and debugging code in a high-level programming language to solve basic computational problems. This course is designed for beginners with little to no prior programming experience.",100,,BIO159,"1. Algorithms and data structures
+2. Computer architecture and organization
+3. Software engineering and design
+4. Artificial intelligence and machine learning
+5. Cybersecurity and cryptography",HIST Major|CHEM Major|ENG Major,"1. Analyze and implement efficient algorithms and data structures to solve complex computational problems|
+2. Evaluate and design computer architecture components and systems for optimal performance and reliability|
+3. Apply software engineering principles to develop scalable and maintainable software solutions|
+4. Implement artificial intelligence and machine learning algorithms to develop intelligent systems and applications|
+5. Assess and implement cybersecurity measures, including cryptography techniques, to protect digital assets and ensure data privacy.",3.097455074479084,Summer|Spring|Fall,2.327268657853199,11.882557060568999,165,True
+79741,ENG389,"Title: ""Literature of the Harlem Renaissance""",ENG,3.0,"This course will explore the rich and vibrant literary works produced during the Harlem Renaissance, a significant cultural movement in the early 20th century that celebrated African American art and literature. Students will analyze key texts, poems, and essays from writers such as Langston Hughes, Zora Neale Hurston, and Claude McKay, examining themes of race, identity, and social justice.",300,ENG195,,"1. Literature analysis
+2. Creative writing
+3. Rhetoric and composition
+4. Shakespeare studies
+5. World literature",ECON Major,"1. Analyze diverse forms of literature to identify key themes, stylistic elements, and narrative techniques|
+2. Produce original creative writing pieces demonstrating effective use of language, structure, and storytelling techniques|
+3. Construct persuasive arguments and written compositions that demonstrate proficiency in rhetorical strategies and effective communication skills.",3.055582490043243,Summer|Spring|Fall,2.6493654612058197,10.627798547088895,104,False
+67607,MATH224,"""Advanced Calculus and Analytic Geometry""",MATH,3.0,"This advanced course in calculus and analytic geometry delves into topics such as multivariable calculus, vector analysis, and differential equations. Students will explore advanced techniques for solving complex mathematical problems and gain a deeper understanding of the fundamental principles that underlie these mathematical concepts.",200,MATH154|MATH156,PHYS207,"1. Calculus
+2. Algebra
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",PHYS Major|CS Major,"1. Apply calculus concepts to solve real-world problems in various fields such as physics, engineering, and economics|
+2. Analyze and solve complex algebraic equations and inequalities using appropriate techniques and strategies|
+3. Justify geometric theorems and properties through logical reasoning and proofs|
+4. Interpret and analyze data using probability and statistical methods to make informed decisions in various contexts|
+5. Perform operations on matrices and vectors in linear algebra to solve systems of equations and understand transformations in geometric spaces.",3.161238303251267,Summer|Spring|Fall,1.8366284365287031,5.466103643445546,146,False
+51861,MATH332,"""Advanced Topics in Multivariable Calculus""",MATH,3.0,"This course delves into advanced topics in multivariable calculus, exploring concepts such as partial derivatives, multiple integrals, and vector calculus. Students will apply these mathematical tools to analyze functions of several variables and solve real-world problems in various fields of science and engineering.",300,MATH200|MATH156,CS370,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Linear Algebra",,"1. Apply algebraic principles to solve equations and inequalities in various contexts|
+2. Analyze and solve problems using differential and integral calculus techniques|
+3. Demonstrate the ability to identify and apply geometric concepts in practical situations|
+4. Interpret and communicate statistical data effectively through various tools and methods|
+5. Utilize linear algebra concepts to solve systems of linear equations and analyze vector spaces.",3.2255365127363906,Summer|Spring|Fall,1.342026825104675,11.076278388033462,97,True
+15545,PHYS614,"""Theoretical Physics: Quantum Field Theory and Renormalization""",PHYS,4.0,"This advanced course in theoretical physics delves into the principles of quantum field theory and the concept of renormalization. Students will explore the mathematical framework and physical interpretations of these key concepts, preparing them for further research and study in the field of theoretical physics.",600,PHYS100,,"1. Classical mechanics
+2. Electromagnetism
+3. Thermodynamics
+4. Quantum mechanics
+5. Special relativity",ECON Major|PHYS Major,"1. Apply principles of classical mechanics to solve complex problems involving motion, forces, and energy|
+2. Analyze electromagnetic phenomena and demonstrate the relationship between electric and magnetic fields through mathematical calculations and experiments|
+3. Evaluate thermodynamic systems and processes to predict changes in temperature, pressure, and energy transfer|
+4. Explain the fundamental concepts of quantum mechanics and apply mathematical formalism to describe the behavior of particles at the atomic and subatomic levels|
+5. Discuss the principles of special relativity and analyze the effects of time dilation, length contraction, and relativistic momentum in various physical scenarios.",3.2260803212253033,Summer|Spring|Fall,1.3378436828822848,7.45333620022145,98,True
+39526,CS262,"""Web Development Fundamentals""",CS,4.0,"In this course, students will learn the foundational concepts of web development, including HTML, CSS, and JavaScript. Through hands-on projects and assignments, students will develop the skills needed to create interactive and responsive websites.",200,,CHEM274,"1. Algorithms and Data Structures
+2. Programming Languages and Software Development
+3. Computer Systems and Architecture
+4. Artificial Intelligence and Machine Learning
+5. Cybersecurity and Information Assurance",BIO Major|PHYS Major|CS Major,"1. Analyze and apply various algorithms and data structures to solve complex problems efficiently|
+2. Evaluate and utilize different programming languages and software development methodologies to design and implement software systems|
+3. Explain and demonstrate the principles of computer systems and architecture, including memory management and processor operation|
+4. Implement and evaluate artificial intelligence and machine learning algorithms for tasks such as pattern recognition and decision-making|
+5. Assess and implement cybersecurity measures and information assurance techniques to protect data and systems from cyber threats.",3.188126602671019,Summer|Spring|Fall,1.6297953640690857,14.213019145795652,157,False
+60141,PHYS164,"""Introduction to Physics: The Fundamentals of Motion and Energy""",PHYS,5.0,"This course provides an introduction to the fundamental principles of physics, focusing on the concepts of motion and energy. Students will explore the laws of motion, kinetic and potential energy, and how these principles apply to real-world scenarios. Through hands-on experiments and problem-solving exercises, students will develop a strong foundation in physics.",100,,HIST138,"1. Mechanics
+2. Thermodynamics
+3. Electromagnetism
+4. Quantum mechanics
+5. Relativity",ECON Major|CS Major|MATH Major,"1. Apply fundamental principles of mechanics to analyze and solve complex physical problems|
+2. Evaluate thermodynamic processes and apply laws of thermodynamics to predict and analyze energy transformations|
+3. Analyze electromagnetic phenomena and apply Maxwell's equations to understand the behavior of electric and magnetic fields|
+4. Explain the principles of quantum mechanics and apply them to analyze the behavior of particles at the atomic and subatomic levels|
+5. Evaluate the concepts of relativity and apply them to understand the behavior of objects moving at high speeds or in strong gravitational fields.",3.0080505324100666,Summer|Spring|Fall,3.014995904537952,4.322485566889126,140,True
+45521,BIO496,"""Advanced Topics in Molecular Genetics""",BIO,3.0,"This advanced course delves into cutting-edge topics in molecular genetics, focusing on the latest research and technologies shaping the field. Students will explore advanced concepts such as genome editing, epigenetics, and personalized medicine, gaining a deeper understanding of how molecular genetics influences biological processes.",400,BIO347|BIO287,CHEM447,"1. Cell Biology
+2. Genetics
+3. Ecology
+4. Evolution
+5. Physiology",HIST Major|PHYS Major,"1. Analyze the fundamental principles of cell biology, including cell structure, function, and communication pathways|
+2. Evaluate the mechanisms of inheritance and genetic variation, and apply genetic principles to solve problems and make predictions|
+3. Demonstrate an understanding of ecological concepts, such as population dynamics, community interactions, and ecosystem processes|
+4. Critically evaluate the theory of evolution and its mechanisms, and analyze the impact of evolutionary processes on biodiversity and adaptation|
+5. Explain the physiological mechanisms underlying various biological processes in organisms, including homeostasis, metabolism, and response to environmental stimuli.",3.236277121736267,Summer|Spring|Fall,1.2594067558748714,7.466481343529818,196,True
+97198,CHEM274,"""Organic Chemistry: Structure and Function""",CHEM,3.0,"This course explores the principles of organic chemistry, focusing on the relationships between molecular structure and chemical reactivity. Students will learn how to predict and explain the behavior of organic molecules based on their structures, functional groups, and interactions. Special emphasis will be placed on the role of organic compounds in biological systems and everyday life.",200,CHEM113,ENG270,"1. General Chemistry
+2. Organic Chemistry
+3. Physical Chemistry
+4. Inorganic Chemistry
+5. Analytical Chemistry",CS Major|ECON Major|ENG Major,"1. Apply fundamental principles of general chemistry to analyze and solve complex chemical problems|
+2. Demonstrate proficiency in the nomenclature, reactions, and properties of organic compounds|
+3. Utilize mathematical concepts and theories to understand and predict the behavior of chemical systems in physical chemistry|
+4. Analyze the structure, bonding, and properties of inorganic compounds to explain their reactivity and applications|
+5. Develop skills in various analytical techniques to identify, quantify, and characterize chemical substances accurately and reliably.",2.7970733937311465,Summer|Spring|Fall,4.637896971298869,11.446441062912832,180,True
+23846,MATH655,"""Advanced Topics in Algebraic Geometry""",MATH,3.0,"This course delves into advanced concepts in algebraic geometry, focusing on topics such as sheaf theory, cohomology, and intersection theory. Students will explore modern developments in the field and engage with complex algebraic structures to deepen their understanding of geometric objects.",600,MATH156|MATH332,BIO613,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Probability",HIST Major,"1. Apply algebraic operations to solve complex equations and inequalities|
+2. Analyze and differentiate functions using calculus techniques|
+3. Utilize geometric principles to solve real-world problems|
+4. Interpret and draw conclusions from statistical data sets|
+5. Calculate probabilities and make informed decisions based on probability theory.",2.8472552680577534,Summer|Spring|Fall,4.251882553401891,12.90338656133155,156,True
+50608,HIST268,"""The Renaissance: Cultural Rebirth and Transformation""",HIST,5.0,"This course delves into the vibrant period of the Renaissance, exploring the artistic, intellectual, and societal changes that defined this era of cultural rebirth in Europe. Students will analyze key works of art, literature, and architecture while examining the impact of humanism, scientific innovation, and political developments on shaping the Renaissance.",200,,,"1. World History
+2. American History
+3. European History
+4. Asian History
+5. African History",MATH Major|PHYS Major|ECON Major,"1. Analyze the interconnectedness of global events and developments in World History, identifying key themes and connections across different regions and time periods|
+2. Evaluate the impact of major events, individuals, and movements in American History on shaping the nation's social, political, and cultural landscape|
+3. Compare and contrast the political, social, and cultural developments in European History, and analyze their influence on global affairs and modern society|
+4. Examine the diverse historical narratives and cultural dynamics of Asian History, recognizing the significance of regional interactions and exchanges|
+5. Critically assess the historical experiences, achievements, and challenges of African societies, tracing the continent's contributions to world history and understanding its contemporary significance.",3.0507446857171128,Summer|Spring|Fall,2.6865793406375977,7.9473295066518155,43,False
+52813,CS422,"Title: ""Advanced Machine Learning Techniques in Natural Language Processing""",CS,3.0,"This advanced course explores cutting-edge machine learning techniques specifically tailored for Natural Language Processing applications. Students will delve into deep learning models, advanced neural network architectures, and state-of-the-art algorithms to analyze and generate human language text. Prerequisite: Proficiency in machine learning and familiarity with natural language processing concepts.",400,CS133|CS370,CHEM427,"1. Algorithms and data structures
+2. Programming languages and software development
+3. Computer architecture and organization
+4. Databases and data management
+5. Artificial intelligence and machine learning",HIST Major,"1. Analyze and implement efficient algorithms and data structures to solve complex computational problems|
+2. Develop software applications using various programming languages with an emphasis on best practices in software development|
+3. Explain the fundamental principles of computer architecture and organization, including memory systems, processor design, and input/output mechanisms|
+4. Design and implement databases to efficiently manage and manipulate data for various applications|
+5. Apply artificial intelligence and machine learning techniques to solve real-world problems and optimize decision-making processes.",3.0790328020080686,Summer|Spring|Fall,2.468978446091775,6.469897808408094,129,False
+64748,CS597,"Title: ""Advanced Machine Learning for Big Data Analysis""",CS,3.0,"This course delves into advanced machine learning techniques tailored for analyzing large volumes of data. Students will explore algorithms for processing big data, optimizing models, and handling scalability challenges. Practical applications in various fields will be emphasized through hands-on projects and case studies.",500,CS173|CS370,MATH536,"1. Data Structures and Algorithms
+2. Programming Languages and Paradigms
+3. Computer Networks and Security
+4. Database Management Systems
+5. Artificial Intelligence and Machine Learning",ECON Major,"1. Analyze and implement efficient data structures and algorithms to solve complex computational problems|
+2. Compare and contrast various programming languages and paradigms to select appropriate tools for software development|
+3. Evaluate and design secure computer networks, applying principles of network security to protect against cyber threats|
+4. Develop and optimize database management systems to efficiently store and retrieve data for applications|
+5. Apply artificial intelligence and machine learning algorithms to solve real-world problems and make data-driven decisions.",3.0215449044416602,Summer|Spring|Fall,2.911193042756463,8.369185920757502,167,False
+64891,HIST138,"""Introduction to World History: From Ancient Civilizations to the Renaissance""",HIST,5.0,"This course provides an overview of world history from the development of ancient civilizations to the Renaissance period. Students will explore key events, cultures, and significant figures that shaped global societies during this time frame, gaining a deeper understanding of the interconnectedness of human history.",100,,,"1. Ancient Civilizations
+2. World Wars and Global Conflicts
+3. American History
+4. European History
+5. History of Science and Technology",CS Major,"1. Analyze the key characteristics, developments, and contributions of ancient civilizations in shaping the modern world|
+2. Evaluate the causes, impacts, and outcomes of major world wars and global conflicts throughout history|
+3. Compare and contrast significant events, figures, and movements in American and European history to understand their influence on contemporary societies|
+4. Examine the historical progression and impact of science and technology on human civilization, from ancient times to the present day.",3.0493055425979207,Summer|Spring|Fall,2.6976496723236845,8.058851328647306,157,True
+40934,ECON344,"""Global Economic Development Strategies""",ECON,4.0,"This course explores the various economic development strategies implemented by countries around the world to promote growth and reduce poverty. Students will analyze case studies, evaluate the effectiveness of different approaches, and discuss the role of international organizations in supporting global economic development efforts.",300,,ENG389,"1. Microeconomics
+2. Macroeconomics
+3. International Trade
+4. Econometrics
+5. Economic Development",CHEM Major,"1. Analyze the fundamental principles and theories of microeconomics to understand how individual economic agents make decisions and how markets allocate resources efficiently|
+2. Evaluate the key concepts and models of macroeconomics to comprehend the behavior of aggregate economic variables such as GDP, inflation, and unemployment|
+3. Examine the theories and policies related to international trade to assess how countries participate in global markets and the impacts on economic welfare|
+4. Apply econometric methods to analyze economic data, test hypotheses, and make informed predictions about economic phenomena|
+5. Critically assess the theories and policies of economic development to understand the factors influencing the economic growth and well-being of nations.",2.922698022182137,Summer|Spring|Fall,3.671553675522027,13.541510236496235,185,False
+48939,HIST404,"""The Cold War Era: Global Perspectives and Implications""",HIST,3.0,"This course explores the complex political, economic, and social implications of the Cold War from a global perspective. Students will analyze major events and ideologies of the era and examine how they shaped international relations and societies worldwide. Special emphasis will be placed on understanding the lasting impact of the Cold War on contemporary global affairs.",400,,HIST410,"1. Ancient Civilizations
+2. Medieval Europe
+3. American History
+4. World Wars and Global Conflicts
+5. Modern History and Globalization",CS Major|HIST Major,"- Analyze the political structures, social systems, and cultural achievements of ancient civilizations|
+- Evaluate the impact of key events and developments in Medieval Europe on modern society|
+- Compare and contrast the political, social, and economic forces that shaped American history|
+- Assess the causes and consequences of major world wars and global conflicts|
+- Critically examine the interconnectedness of modern history and the processes of globalization.",2.815412574090126,Summer|Spring|Fall,4.496826353152869,13.430114091584603,162,False
+92909,BIO311,"""Ecological Interactions and Conservation Biology""",BIO,3.0,"This course explores the intricate relationships between organisms and their environment, with a focus on conservation strategies to protect biodiversity. Students will examine case studies and apply ecological principles to real-world conservation challenges, gaining a comprehensive understanding of how human activities impact ecosystems and the importance of sustainable practices.",300,BIO218,ENG310,"1. Cell Biology
+2. Genetics
+3. Evolutionary Biology
+4. Ecology
+5. Physiology",,"1. Analyze the structure and function of cells at a molecular level, demonstrating an understanding of key cellular processes and organelles in cell biology|
+2. Apply genetic principles to solve problems related to inheritance patterns, genetic disorders, and molecular genetics in living organisms|
+3. Evaluate the mechanisms of evolutionary change, including natural selection, genetic drift, and speciation, to explain the diversity of life on Earth|
+4. Synthesize ecological concepts such as population dynamics, community interactions, and ecosystem functioning to analyze and propose solutions to environmental issues|
+5. Demonstrate an understanding of physiological processes in living organisms, including homeostasis, metabolism, and response to stimuli, through experimentation and critical analysis.",3.1829989930562093,Summer|Spring|Fall,1.6692385149522386,8.983962006234998,153,False
+20582,BIO218,"""Ecology and Conservation Biology""",BIO,3.0,"This course provides an in-depth exploration of ecological principles and their applications to conservation biology. Students will examine the interconnections between organisms and their environments, as well as strategies for preserving biodiversity and mitigating human impacts on ecosystems. Through hands-on fieldwork and case studies, students will develop a comprehensive understanding of the challenges and opportunities in conservation biology.",200,,,"1. Cell Structure and Function
+2. Genetics and Heredity
+3. Evolutionary Biology
+4. Ecology and Environmental Biology
+5. Physiology and Anatomy",CHEM Major|CS Major,"1. Analyze the relationship between cell structure and function, and explain how cellular processes contribute to the overall functioning of living organisms|
+2. Evaluate the principles of genetics and heredity, and apply them to explain patterns of inheritance and genetic variation within populations|
+3. Critically assess the mechanisms of evolutionary biology, and interpret the processes that drive changes in populations over time|
+4. Demonstrate an understanding of ecological concepts and environmental biology, and analyze the interactions between organisms and their environment|
+5. Apply knowledge of physiology and anatomy to explain the structure and function of different organ systems in the human body.",3.1978207206943474,Summer|Spring|Fall,1.5552252254280976,14.72659896445092,107,False
+65260,MATH669,"""Advanced Topics in Algebraic Geometry""",MATH,4.0,"This course covers advanced topics in algebraic geometry, exploring concepts such as schemes, sheaves, cohomology, and intersection theory. Students will delve into the deep connections between algebraic geometry, commutative algebra, and complex analysis, gaining a deeper understanding of geometric objects defined by polynomial equations.",600,MATH224,MATH607,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",ECON Major|HIST Major,"1. Apply algebraic techniques to solve complex mathematical problems, including simplifying expressions, solving equations, and manipulating functions|
+2. Analyze and differentiate calculus concepts such as limits, derivatives, and integrals to solve real-world problems in various fields|
+3. Construct geometric proofs and demonstrate an understanding of geometric principles, including angles, shapes, and spatial relationships|
+4. Utilize statistical methods to collect, analyze, and interpret data, drawing meaningful conclusions and making informed decisions|
+5. Explore and apply fundamental concepts in number theory, including prime numbers, divisibility, and modular arithmetic, to solve mathematical problems and prove theorems.",3.0947055929422267,Summer|Spring|Fall,2.3484185158290227,12.565922372602081,144,True
+66602,PHYS207,"""Modern Physics: Quantum Mechanics and Special Relativity""",PHYS,5.0,"This course provides an in-depth exploration of the fundamental concepts and principles of quantum mechanics and special relativity. Students will learn about the behavior of particles at the atomic and subatomic levels, as well as the implications of Einstein's theory of relativity on our understanding of space and time.",200,PHYS164,BIO287,Classical Mechanics| Electromagnetism| Thermodynamics| Quantum Mechanics| Special Relativity,BIO Major|CS Major,"- Analyze and apply the principles of classical mechanics to solve complex problems in mechanics and motion|
+- Explain and evaluate the fundamental concepts of electromagnetism and apply them to analyze electromagnetic phenomena|
+- Critically assess and analyze the principles of quantum mechanics and special relativity to understand the behavior of matter and energy at the atomic and subatomic levels.",2.75437844443383,Summer|Spring|Fall,4.966319658201309,11.504368316428279,82,True
+17018,ECON511,"""Advanced Topics in Economic Development""",ECON,4.0,"This course delves into advanced concepts and theories in economic development, exploring topics such as globalization, sustainable development, and income inequality. Students will analyze case studies and conduct research to understand the complexities of fostering economic growth in developing regions.",500,,,"1. Microeconomics
+2. Macroeconomics
+3. Econometrics
+4. International Economics
+5. Development Economics",PHYS Major|CHEM Major,"1. Analyze the behavior of individual consumers and firms in various market structures through the application of microeconomic principles|
+2. Evaluate the impact of government policies and global economic trends on national economies using macroeconomic theories and models|
+3. Apply econometric techniques to analyze economic data and make informed predictions and policy recommendations|
+4. Examine the effects of trade, exchange rates, and global economic integration on international economies|
+5. Critically assess the factors influencing economic growth and development in different countries through the lens of development economics.",3.1493453278115666,Summer|Spring|Fall,1.9281128629879491,7.069853133772282,135,False
+78858,MATH616,"""Advanced Topics in Mathematical Analysis""",MATH,3.0,"This course delves into advanced topics in mathematical analysis, exploring concepts such as measure theory, functional analysis, and complex analysis. Students will develop a deeper understanding of mathematical structures and applications through rigorous proofs and problem-solving.",600,MATH156,PHYS699,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Number theory",CS Major|BIO Major,"1. Apply algebraic techniques to solve mathematical problems involving equations, inequalities, and polynomials|
+2. Analyze and differentiate functions using calculus concepts such as limits, derivatives, and integrals|
+3. Construct geometric proofs and solve problems related to angles, shapes, and spatial relationships|
+4. Evaluate and interpret data using probability and statistics methods such as probability distributions, hypothesis testing, and regression analysis|
+5. Demonstrate an understanding of fundamental concepts in number theory, including prime numbers, divisibility, and modular arithmetic.",2.8386060969949347,Summer|Spring|Fall,4.318414638500503,14.075746351831896,101,False
+82635,CHEM470,"""Advanced Topics in Organic Chemistry""",CHEM,4.0,"This course delves into advanced concepts and mechanisms in organic chemistry, exploring key reactions, synthesis strategies, and spectroscopic techniques. Students will develop a deeper understanding of complex organic molecules and their applications in drug discovery, materials science, and biochemistry.",400,,HIST404,"1. General Chemistry
+2. Organic Chemistry
+3. Inorganic Chemistry
+4. Analytical Chemistry
+5. Physical Chemistry",BIO Major|PHYS Major,"1. Apply fundamental principles of general chemistry to predict the behavior of chemical systems|
+2. Demonstrate the ability to analyze and design organic compounds and reactions|
+3. Evaluate the properties and reactivity of inorganic compounds based on their structures and bonding|
+4. Utilize various analytical techniques to identify and quantify chemical substances|
+5. Solve complex problems in physical chemistry using mathematical and theoretical models.",3.139407488174475,Summer|Spring|Fall,2.004557783273268,5.559351896735883,67,True
+73890,MATH596,"""Advanced Topics in Mathematical Analysis""",MATH,4.0,"This course delves into advanced topics in mathematical analysis, focusing on the rigorous study of limits, continuity, differentiation, and integration in multiple dimensions. Students will explore topics such as sequences and series, metric spaces, and functional analysis, gaining a deeper understanding of the theoretical foundations of calculus and mathematical analysis.",500,,,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",,"1. Apply algebraic principles to solve complex mathematical problems|
+2. Analyze and interpret functions and their derivatives in calculus applications|
+3. Construct geometric proofs and solve geometric problems using theorems and postulates|
+4. Utilize statistical methods to analyze data and make informed decisions|
+5. Evaluate number theory concepts to solve advanced mathematical problems.",2.957690540848397,Summer|Spring|Fall,3.4023804550123264,12.175488591011055,44,False
+16098,CS586,"""Distributed Systems and Cloud Computing""",CS,3.0,"This course provides an in-depth study of distributed systems and cloud computing technologies. Students will explore concepts such as scalability, fault tolerance, and load balancing in distributed systems, and gain practical experience in deploying and managing applications in cloud environments. The course will also cover relevant case studies and emerging trends in the field.",500,CS229,ECON591,"1. Algorithms and Data Structures
+2. Databases and Information Retrieval
+3. Computer Networks and Security
+4. Software Development and Engineering
+5. Artificial Intelligence and Machine Learning",,"1. Analyze and apply algorithms and data structures to solve complex computational problems efficiently|
+2. Design and implement database systems for efficient data storage and retrieval, and demonstrate proficiency in information retrieval techniques|
+3. Evaluate and implement secure computer network configurations, protocols, and security measures to protect against cyber threats|
+4. Develop and implement software solutions using best practices in software engineering principles and methodologies|
+5. Apply artificial intelligence and machine learning algorithms to analyze data, make predictions, and develop intelligent systems.",2.9789065006555537,Summer|Spring|Fall,3.2391807641880543,6.171645339580987,119,True
+32574,HIST339,"""The Rise and Fall of the Roman Empire""",HIST,4.0,"This course delves into the fascinating history of the Roman Empire, exploring its origins, expansion, and eventual decline. Students will analyze key events, influential figures, and societal changes that shaped the rise and fall of one of the most powerful empires in history.",300,,ENG310,"1. Ancient civilizations
+2. World Wars
+3. American history
+4. Women's history
+5. Colonialism and imperialism",MATH Major|PHYS Major,"1. Analyze the political, social, and cultural structures of ancient civilizations, and evaluate their impact on contemporary societies|
+2. Compare and contrast the causes, outcomes, and global effects of the World Wars, and assess their significance in shaping modern international relations|
+3. Examine key events, movements, and figures in American history, and critically analyze their roles in shaping the nation's identity and development|
+4. Evaluate the contributions and challenges faced by women throughout history, and analyze the impact of gender dynamics on societal structures and norms|
+5. Critically assess the motivations, methods, and consequences of colonialism and imperialism on both colonized and colonizer societies, and analyze their enduring legacies in the modern world.",2.9790878661663096,Summer|Spring|Fall,3.2377856448745446,12.293768916009467,154,False
+49459,HIST583,"""The Cold War Era: Global Perspectives and Consequences""",HIST,3.0,"This course explores the political, economic, and cultural impact of the Cold War on a global scale. Students will analyze key events, ideologies, and conflicts that defined this period and examine its lasting implications for international relations and society.",500,HIST404|HIST339,CHEM592,"1. Ancient Civilizations
+2. Medieval History
+3. Modern World History
+4. History of the United States
+5. Global Perspectives in History",ENG Major|PHYS Major,"1. Analyze the social structures, political systems, and cultural achievements of ancient civilizations to gain a comprehensive understanding of their impact on the development of human societies|
+2. Evaluate the key events, figures, and transformations that shaped the medieval period in Europe and beyond, and assess their relevance to contemporary global issues|
+3. Compare and contrast the major political, economic, and social changes that have occurred in the modern world from the 18th century to the present day, and analyze their influence on modern society and international relations|
+4. Examine the historical events, movements, and ideologies that have shaped the development of the United States as a nation, and critically evaluate their impact on American society and identity|
+5. Investigate diverse global perspectives in history",3.153084090196729,Summer|Spring|Fall,1.8993531523328482,9.286371247311033,139,False
+75519,MATH159,"""Foundations of Algebra and Geometry""",MATH,5.0,"This course provides a comprehensive introduction to the fundamental concepts of algebra and geometry, emphasizing the connections between the two branches of mathematics. Students will explore topics such as equations, functions, geometric shapes, and spatial reasoning to develop a strong foundation for further studies in mathematics.",100,,CS133,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",CS Major,"1. Apply algebraic concepts to model and solve real-world problems across various disciplines|
+2. Analyze and differentiate calculus functions to understand rates of change and optimize solutions in different contexts|
+3. Demonstrate proficiency in geometric proofs and constructions to analyze shapes and spatial relationships|
+4. Utilize statistical methods to interpret data, make predictions, and draw conclusions in practical scenarios|
+5. Evaluate and apply number theory principles to solve complex mathematical problems and explore patterns within the realm of integers and prime numbers.",3.213482807672051,Summer|Spring|Fall,1.434747633291917,8.50180320431375,172,False
+82095,ENG514,"""Advanced Studies in Modern American Literature""",ENG,3.0,"This course delves into the depth and complexity of contemporary American literature, focusing on key themes, styles, and movements. Students will analyze and interpret works by prominent American authors, engaging in critical discussions and developing advanced writing skills.",500,ENG310,ENG564,"1. Introduction to Literary Analysis
+2. Writing and Composition Skills
+3. British Literature
+4. American Literature
+5. World Literature",ENG Major,"1. Analyze various literary works to identify key themes, symbols, and literary devices in order to develop a deeper understanding of the text|
+2. Demonstrate effective writing and composition skills through the creation of well-structured essays that incorporate literary analysis and critical thinking|
+3. Compare and contrast major themes, historical contexts, and cultural influences in British, American, and world literature to gain a comprehensive understanding of the diverse literary traditions.",2.8103664849056575,Summer|Spring|Fall,4.535642423802633,12.739190342465578,163,True
+30891,BIO539,"""Advanced Topics in Evolutionary Biology""",BIO,4.0,"This advanced course in Evolutionary Biology delves into current research and cutting-edge topics in the field. Students will explore advanced concepts such as molecular evolution, phylogenetics, and population genetics, while honing their critical thinking and analytical skills through hands-on research projects.",500,BIO410|BIO287,,"1. Cell Biology
+2. Genetics
+3. Evolution
+4. Ecology
+5. Physiology",,"1. Analyze the structure and function of cells at a molecular level, including organelles, membranes, and cellular processes in cell biology|
+2. Apply genetic principles and techniques to solve problems related to inheritance, gene expression, and genetic variation|
+3. Evaluate the mechanisms and evidence supporting evolutionary theory, including natural selection, genetic drift, and speciation|
+4. Examine the interactions between organisms and their environment, including population dynamics, community ecology, and ecosystem function|
+5. Explain physiological processes in living organisms, such as homeostasis, cellular respiration, and nervous system function.",3.052380609928731,Summer|Spring|Fall,2.6739953082405306,12.91111263985221,23,False
+26616,CS138,"""Introduction to Programming Fundamentals""",CS,3.0,"This course provides an introduction to key programming concepts and techniques for beginners. Students will learn the basics of programming logic, problem-solving skills, and how to write and debug simple programs using a high-level language such as Python or Java.",100,,PHYS135,"1. Algorithms and Data Structures
+2. Software Engineering
+3. Database Management
+4. Artificial Intelligence and Machine Learning
+5. Cybersecurity and Cryptography",PHYS Major,"1. Analyze and apply various algorithms and data structures to solve complex computational problems efficiently|
+2. Design and implement software systems following software engineering best practices, including requirements analysis, design, testing, and maintenance|
+3. Evaluate and implement database management techniques to efficiently store, retrieve, and manipulate data in different applications|
+4. Apply artificial intelligence and machine learning concepts to develop intelligent systems that can learn from data and make predictions or decisions|
+5. Assess and implement cybersecurity measures, including cryptographic techniques, to protect data and systems from unauthorized access and cyber threats.",3.00018177408625,Summer|Spring|Fall,3.075524814721154,8.86568469020076,175,True
+62024,MATH154,"""Foundations of Algebra and Geometry""",MATH,3.0,"This course provides students with a solid understanding of the fundamental concepts in algebra and geometry. Topics covered include equations, inequalities, functions, geometric shapes, and spatial reasoning. Students will develop problem-solving skills and critical thinking abilities essential for success in higher-level mathematics courses.",100,,PHYS181,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Number theory",CHEM Major|PHYS Major|ECON Major,"1. Apply algebraic principles to solve complex mathematical problems, including simplifying expressions, solving equations, and manipulating functions|
+2. Analyze and interpret calculus concepts such as limits, derivatives, and integrals to model and solve practical problems in various fields|
+3. Construct geometric proofs and apply geometric principles to solve problems related to shapes, angles, and spatial relationships|
+4. Utilize statistical methods to collect, analyze, and interpret data, and make informed decisions based on statistical findings|
+5. Evaluate number theoretical concepts and their applications in cryptography, encryption, and other mathematical fields.",2.842055105445691,Summer|Spring|Fall,4.291883804263918,6.80340548076961,184,True
+15052,ECON591,"""Advanced Topics in Macroeconomic Theory""",ECON,3.0,"This course delves deep into advanced concepts in macroeconomic theory, focusing on topics such as economic growth, business cycles, and monetary policy. Students will analyze current macroeconomic issues and develop sophisticated models to explain and predict economic phenomena.",500,,ENG564,"1. Microeconomics
+2. Macroeconomics
+3. Econometrics
+4. International Economics
+5. Development Economics",ECON Major,"1. Analyze the principles of microeconomics to understand how individuals and firms make decisions regarding resource allocation and market interaction|
+2. Evaluate the key macroeconomic indicators and policies to comprehend the overall performance and stability of an economy|
+3. Apply econometric techniques to analyze and interpret economic data, make forecasts, and test economic theories|
+4. Examine the impact of globalization on trade, finance, and economic development in different countries|
+5. Critically assess the factors influencing economic growth and income distribution in various regions, using theories and empirical evidence.",2.794394503036575,Summer|Spring|Fall,4.65850382279557,9.336022931523434,196,False
+24288,MATH687,"""Advanced Topics in Algebraic Geometry""",MATH,3.0,"This course delves into the advanced theoretical aspects of algebraic geometry, focusing on topics such as sheaf theory, cohomology, and intersection theory. Students will explore deeper connections between algebra and geometry, with an emphasis on modern research developments in the field.",600,MATH154,MATH655,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Number Theory",BIO Major,"1. Apply algebraic techniques to solve complex mathematical problems, including manipulating equations and expressions, factoring polynomials, and solving systems of equations|
+2. Analyze and interpret calculus concepts such as limits, derivatives, and integrals to solve real-world problems in various fields such as physics, economics, and engineering|
+3. Demonstrate a thorough understanding of geometric principles and the ability to apply them to solve problems involving angles, shapes, and spatial relationships|
+4. Utilize probability and statistical methods to analyze data, make predictions, and draw inferences about random events and phenomena|
+5. Explore advanced concepts in number theory, including prime numbers, modular arithmetic, and Diophantine equations, and apply them to solve mathematical problems.",2.980683423589334,Summer|Spring|Fall,3.2255121262358912,10.071877975850096,42,False
+17931,PHYS181,"""Introduction to Mechanics and Motion""",PHYS,5.0,"This course provides a foundational understanding of classical mechanics, covering topics such as kinematics, dynamics, and energy. Students will learn to analyze the motion of objects and solve problems related to forces and motion in one and two dimensions.",100,,,"1. Classical Mechanics
+2. Electricity and Magnetism
+3. Quantum Mechanics
+4. Thermodynamics
+5. Astrophysics",PHYS Major|ENG Major,"1. Apply principles of classical mechanics to analyze and solve complex physical problems|
+2. Demonstrate proficiency in solving advanced problems related to electricity and magnetism using mathematical and conceptual reasoning|
+3. Explain key principles and phenomena of quantum mechanics and their implications for modern physics research|
+4. Analyze thermodynamic systems and processes to predict and explain their behavior|
+5. Evaluate and interpret astrophysical data and observations to understand the fundamental processes governing the universe.",2.770552225067435,Summer|Spring|Fall,4.841905961019728,8.388982744286574,180,False
+59713,MATH156,"""Foundations of Algebra and Geometry""",MATH,4.0,"This course covers the fundamental principles and concepts of algebra and geometry, providing students with a solid foundation for more advanced math courses. Topics include solving equations, graphing functions, geometric shapes, and spatial reasoning. Students will develop critical thinking and problem-solving skills essential for success in higher-level mathematics.",100,,HIST106,"1. Algebra
+2. Calculus
+3. Geometry
+4. Statistics
+5. Linear Algebra",ECON Major|HIST Major,"1. Apply algebraic principles to solve complex mathematical problems involving variables and equations|
+2. Demonstrate proficiency in using calculus techniques to analyze functions, limits, and derivatives in various contexts|
+3. Construct geometric proofs and solve geometric problems using theorems and postulates|
+4. Analyze real-world data sets and make informed decisions based on statistical methods and interpretations|
+5. Apply linear algebra concepts to solve systems of linear equations and understand vector spaces and transformations.",3.160689234971976,Summer|Spring|Fall,1.8408520386771032,11.64119681971181,36,False
+44708,CHEM427,"""Advanced Topics in Organic Chemistry""",CHEM,3.0,"This course delves into complex concepts in organic chemistry, covering advanced topics such as reaction mechanisms, spectroscopic techniques, and synthetic methods. Students will engage in in-depth discussions, problem-solving exercises, and hands-on laboratory experiments to deepen their understanding of organic chemistry principles.",400,,CHEM456,"1. Atomic structure and periodic trends
+2. Chemical bonding and molecular structure
+3. Chemical reactions and stoichiometry
+4. Thermodynamics and kinetics
+5. Organic chemistry and biochemistry",,"1. Analyze the relationship between atomic structure and periodic trends to predict the behavior of elements in the periodic table|
+2. Explain the different types of chemical bonds and molecular structures, and apply this knowledge to predict the properties of compounds|
+3. Calculate stoichiometric parameters and interpret chemical reactions using principles of stoichiometry|
+4. Evaluate thermodynamic concepts and kinetic factors to predict the direction and rate of chemical reactions|
+5. Apply the principles of organic chemistry and biochemistry to analyze the structures and functions of organic compounds in living systems.",3.069426751994886,Summer|Spring|Fall,2.542871138500878,11.044713163892299,25,True
+85218,BIO287,"""Ecology and Conservation Biology""",BIO,4.0,"This course explores the interconnections between living organisms and their environment, focusing on the principles of ecology and conservation biology. Students will study the dynamics of ecosystems, biodiversity, human impacts on the environment, and strategies for preserving natural habitats and species diversity.",200,BIO159,ENG230,"1. Cell Biology
+2. Genetics
+3. Ecology
+4. Evolution
+5. Physiology",BIO Major,"1. Analyze the fundamental principles of cell biology to explain the structure and function of cells at the molecular level|
+2. Apply genetic principles and techniques to solve problems related to inheritance, gene expression, and genetic variation|
+3. Evaluate ecological concepts and theories to understand the interactions between organisms and their environment|
+4. Compare and contrast evolutionary processes to illustrate the mechanisms driving biodiversity and adaptation|
+5. Demonstrate an understanding of physiological mechanisms to explain how organisms maintain homeostasis and respond to environmental stimuli.",2.786607690885305,Summer|Spring|Fall,4.718402377805346,6.7124670690943855,144,True
+53326,ECON578,"""Advanced Topics in Economic Policy Analysis""",ECON,3.0,"This course delves into advanced economic policy analysis techniques, exploring topics such as cost-benefit analysis, impact evaluation, and policy simulation modeling. Students will develop skills to critically assess and recommend effective economic policies in various real-world contexts.",500,ECON147,CS586,"1. Microeconomics
+2. Macroeconomics
+3. Economic Theory
+4. International Economics
+5. Econometrics",,"1. Analyze the principles of microeconomics to understand how individual consumers and firms make decisions in various market structures|
+2. Evaluate the key concepts of macroeconomics to assess the impact of government policies on the economy as a whole|
+3. Critically assess economic theories to explain the behavior of individuals, firms, and markets in different economic environments|
+4. Examine the complexities of international economics to analyze how global economic factors influence trade and financial flows between nations|
+5. Apply econometric methods to analyze and interpret economic data, make forecasts, and test economic hypotheses.",3.0946076892194303,Summer|Spring|Fall,2.3491716213889946,14.93320120512032,145,True
+88180,BIO410,"""Advanced Topics in Evolutionary Biology""",BIO,3.0,"This course delves into advanced concepts in evolutionary biology, exploring topics such as molecular evolution, speciation, and phylogenetics. Students will analyze current research in the field and develop a deeper understanding of the mechanisms driving biological diversity.",400,BIO287,CHEM427,"1. Cell Biology
+2. Genetics
+3. Evolutionary Biology
+4. Ecology
+5. Physiology",HIST Major|MATH Major,"1. Analyze the fundamental principles and processes of cell biology, including cell structure, function, and communication|
+2. Apply genetic principles and techniques to analyze inheritance patterns, genetic variation, and gene expression|
+3. Evaluate the mechanisms and evidence for evolutionary processes, such as natural selection, genetic drift, and speciation|
+4. Explain ecological concepts and relationships among organisms, populations, communities, and ecosystems|
+5. Demonstrate an understanding of physiological mechanisms and adaptations in living organisms to maintain homeostasis and respond to environmental changes.",3.020082907701602,Summer|Spring|Fall,2.922439171526142,7.523601088062607,82,False
+55791,CS570,"""Advanced Machine Learning Techniques in Natural Language Processing""",CS,4.0,"This advanced course delves into cutting-edge machine learning techniques applied to natural language processing tasks. Students will explore deep learning models, attention mechanisms, and transformer architectures to analyze and generate human language data, with a focus on real-world applications and challenges in the field.",500,CS173,,"1. Algorithms and Data Structures
+2. Software Development and Engineering
+3. Database Management
+4. Artificial Intelligence and Machine Learning
+5. Cybersecurity and Network Security",ENG Major,"1. Analyze and implement various algorithms and data structures to solve complex problems efficiently|
+2. Design and develop software systems using best practices in software development and engineering principles|
+3. Apply database management concepts to design and implement efficient data storage and retrieval systems|
+4. Evaluate and implement artificial intelligence and machine learning techniques to solve real-world problems|
+5. Assess and implement cybersecurity measures to protect networks and systems from potential threats.",3.193462922829894,Summer|Spring|Fall,1.588746747462357,11.872811440146188,91,True
+67153,MATH390,"""Advanced Topics in Abstract Algebra""",MATH,4.0,"This course delves into advanced topics in abstract algebra, exploring concepts such as group theory, ring theory, field theory, and module theory. Students will engage with challenging proofs and applications of abstract algebra to various mathematical structures.",300,MATH159|MATH224,BIO311,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",CHEM Major,"1. Solve algebraic equations and inequalities using various techniques including factoring, completing the square, and applying the quadratic formula|
+2. Differentiate and integrate functions using calculus methods such as power rule, chain rule, integration by parts, and substitution|
+3. Apply geometric principles to solve problems involving shapes, angles, and spatial relationships|
+4. Analyze data sets, calculate probabilities, and interpret statistical measures to make informed decisions|
+5. Perform operations on vectors and matrices, solve systems of linear equations, and apply linear transformations in real-world scenarios.",2.9462075091105864,Summer|Spring|Fall,3.4907114683800993,6.308835682039911,68,False
+70424,ECON147,"""Introduction to Microeconomics""",ECON,5.0,"This course provides an introduction to the fundamental concepts of microeconomics, including supply and demand, consumer behavior, production costs, market structures, and the role of government in the economy. Students will analyze real-world economic issues and develop critical thinking skills to understand decision-making at the individual and firm levels.",100,,HIST111,"1. Microeconomics
+2. Macroeconomics
+3. Economic Systems
+4. International Trade and Finance
+5. Economic Development",CS Major,"1. Analyze the principles of microeconomics to understand individual consumer behavior, market dynamics, and resource allocation|
+2. Evaluate the impact of macroeconomic variables such as inflation, unemployment, and fiscal policy on the overall economy|
+3. Compare and contrast different economic systems including capitalism, socialism, and mixed economies in terms of efficiency, equity, and government intervention|
+4. Examine the theories and implications of international trade and finance on global economies and multinational corporations|
+5. Assess the factors influencing economic development in both developed and developing countries, including the role of institutions, policies, and international aid programs.",3.120496469103398,Summer|Spring|Fall,2.150027160743091,5.41939219751622,178,True
+49367,PHYS100,"""Principles of Physics: Mechanics and Motion""",PHYS,5.0,"This course introduces students to the fundamental principles of physics related to mechanics and motion. Topics covered include Newton's laws of motion, kinematics, forces, momentum, and energy. Through hands-on experiments and problem-solving exercises, students will develop a strong foundation in understanding the physical world around them.",100,,HIST106,"1. Classical Mechanics
+2. Electromagnetism
+3. Thermodynamics and Statistical Mechanics
+4. Quantum Mechanics
+5. Astrophysics",BIO Major|CHEM Major,"1. Apply principles of classical mechanics to analyze and solve problems related to motion, forces, and energy in various physical systems|
+2. Evaluate electromagnetic phenomena and demonstrate an understanding of Maxwell's equations and their applications in engineering and physics|
+3. Analyze and apply concepts of thermodynamics and statistical mechanics to describe and predict the behavior of macroscopic systems, including heat, work, and entropy changes|
+4. Apply the principles of quantum mechanics to describe the behavior of particles at the atomic and subatomic levels, including wave-particle duality and quantum states|
+5. Analyze astrophysical phenomena and demonstrate an understanding of the properties and evolution of celestial bodies and systems in the universe.",2.940889506033109,Summer|Spring|Fall,3.531619184360701,5.23812291876512,153,True
+57707,CHEM456,"""Advanced Topics in Organic Chemistry: Synthesis and Mechanisms""",CHEM,4.0,"This advanced organic chemistry course delves into the intricate world of synthesis strategies and reaction mechanisms. Students will explore cutting-edge research in the field, gaining a deep understanding of how complex organic molecules are designed and formed.",400,CHEM113,CS422,"1. Chemical bonding and molecular structure
+2. Stoichiometry and chemical reactions
+3. Thermodynamics and kinetics
+4. Organic chemistry
+5. Analytical chemistry",CHEM Major,"1. Analyze the various types of chemical bonding and molecular structures, and apply this knowledge to predict the properties and behavior of molecules in different contexts|
+2. Calculate stoichiometric relationships in chemical reactions, including identifying limiting reactants and determining the quantities of products formed|
+3. Explain the fundamental principles of thermodynamics and kinetics, and apply them to analyze energy changes in chemical reactions and predict reaction rates|
+4. Describe the properties and reactions of organic compounds, including functional groups, nomenclature, and basic reaction mechanisms|
+5. Utilize analytical techniques and methods to identify and quantify chemical compounds in samples, and interpret data to draw conclusions about their composition and properties.",2.9603933152801027,Summer|Spring|Fall,3.38158988246074,3.1719235280734592,69,False
+32970,ENG360,"""Exploring Contemporary American Literature""",ENG,3.0,"This course delves into the diverse landscape of contemporary American literature, examining works that reflect the current social, political, and cultural climate. Students will analyze a variety of genres and voices, gaining insight into the themes and styles that shape modern American storytelling.",300,ENG270,MATH322,"1. Introduction to Literature
+2. Writing and Composition
+3. Literary Analysis
+4. Shakespeare and Renaissance Literature
+5. Contemporary Literature and Critical Theory",ENG Major|CHEM Major,"1. Analyze various literary works to identify key themes, characters, and literary devices in Introduction to Literature|
+2. Demonstrate effective writing and composition skills through the creation of well-structured essays and argumentative pieces|
+3. Apply critical literary analysis techniques to interpret and evaluate texts in order to develop a deeper understanding of their meanings and contexts|
+4. Examine the works of Shakespeare and other Renaissance writers to analyze their historical and cultural significance within the context of their time period|
+5. Evaluate contemporary literature through the lens of critical theory to explore the socio-political and cultural implications of modern works.",2.9926129502314214,Summer|Spring|Fall,3.1337465366813793,6.750972464215927,93,False
+85442,HIST106,"""Introduction to Ancient Civilizations""",HIST,3.0,"This course provides an overview of the early civilizations of Mesopotamia, Egypt, Greece, and Rome, focusing on their political structures, social organization, religious beliefs, and cultural achievements. Students will explore the development of these ancient societies and gain an understanding of their lasting impact on the modern world.",100,,MATH159,"1. Ancient civilizations
+2. Medieval history
+3. World wars and their impact
+4. Colonialism and imperialism
+5. Modern revolutions and social movements",MATH Major|CS Major|CHEM Major,"1. Analyze the political structures, cultural achievements, and societal norms of various ancient civilizations to understand the complexities of their historical development|
+2. Evaluate the key events, influential figures, and significant developments in medieval history to comprehend the socio-political dynamics of the period|
+3. Examine the causes, consequences, and global impact of world wars to assess their lasting effects on societies, economies, and international relations|
+4. Critically analyze the motivations, methods, and legacies of colonialism and imperialism on regions around the world to recognize the complexities of power dynamics and cultural exchanges|
+5. Compare and contrast the ideologies, strategies, and outcomes of modern revolutions and social movements to evaluate their role in shaping contemporary societies and political landscapes.",2.817765001056039,Summer|Spring|Fall,4.4787307611073945,10.235288576632453,120,False
+18937,CHEM615,"""Advanced Topics in Chemical Kinetics and Reaction Mechanisms""",CHEM,4.0,"This advanced course delves into the intricacies of chemical kinetics and reaction mechanisms, exploring theoretical principles and experimental methods to understand reaction rates and pathways at a molecular level. Students will analyze complex reaction systems and apply mathematical models to predict and interpret kinetic data.",600,CHEM274|CHEM447,,"1. Organic Chemistry
+2. Inorganic Chemistry
+3. Physical Chemistry
+4. Analytical Chemistry
+5. Biochemistry",ENG Major,"1. Apply the principles of organic chemistry to analyze, predict, and explain the behavior of organic compounds in various chemical reactions|
+2. Compare and contrast the fundamental concepts and properties of inorganic compounds with those of organic compounds|
+3. Demonstrate a comprehensive understanding of the theoretical and experimental aspects of physical chemistry, including thermodynamics, kinetics, and quantum mechanics|
+4. Utilize analytical techniques and methods to identify and quantify chemical components in complex mixtures accurately|
+5. Evaluate the biochemical processes and molecular interactions that occur in living organisms, and their relevance to health and disease.",3.1889827875954215,Summer|Spring|Fall,1.623209326189059,12.457143767818618,128,True
+41578,MATH204,"""Advanced Calculus and Applications""",MATH,5.0,"This course delves deeper into the principles of calculus, covering advanced topics such as multivariable calculus, vector calculus, and differential equations. Students will apply these concepts to real-world scenarios in engineering, physics, economics, and other fields.",200,,,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",BIO Major|ECON Major|MATH Major,"1. Apply algebraic techniques to solve complex mathematical problems, including simplifying expressions, solving equations, and manipulating algebraic structures|
+2. Analyze and differentiate between various types of calculus problems, such as limits, derivatives, and integrals, in order to solve real-world applications and problems|
+3. Explain geometric concepts and theorems, and apply them to solve problems involving shapes, angles, and spatial relationships|
+4. Utilize probability and statistics concepts to analyze data, make predictions, and draw conclusions about random events and trends|
+5. Demonstrate proficiency in performing operations with matrices and vectors, solving systems of linear equations, and applying linear transformations in various mathematical contexts.",2.9499796528950912,Summer|Spring|Fall,3.4616949777300645,6.860205286843042,60,False
+17554,MATH643,"""Advanced Topics in Mathematical Analysis""",MATH,3.0,"This advanced course in mathematical analysis delves into topics such as measure theory, Lebesgue integration, and functional analysis. Students will explore advanced concepts in real and complex analysis, enhancing their understanding of mathematical structures and techniques.",600,MATH200,HIST618,"1. Algebra
+2. Calculus
+3. Geometry
+4. Probability and Statistics
+5. Linear Algebra",,"1. Apply algebraic techniques to solve complex mathematical problems, including simplifying expressions, solving equations, and manipulating algebraic structures|
+2. Analyze functions and their properties using calculus concepts, including limits, derivatives, and integrals|
+3. Construct geometric proofs and solve geometric problems using theorems, postulates, and geometric transformations|
+4. Utilize probability and statistical methods to analyze data, make predictions, and draw conclusions in real-world scenarios|
+5. Demonstrate proficiency in performing operations with matrices, vector spaces, and linear transformations in linear algebra.",2.9414452801485345,Summer|Spring|Fall,3.5273439988574307,10.394733583549241,107,False
+88542,ENG595,"""Advanced Studies in Post-Colonial Literature""",ENG,4.0,"This advanced course delves into the complexities of post-colonial literature, examining themes of identity, power dynamics, and cultural representation. Students will analyze a range of texts from various regions and time periods to deepen their understanding of the lasting impacts of colonialism on literature and society.",500,ENG270,ECON511,"1. Literature analysis
+2. Writing and composition
+3. Literary theory
+4. Creative writing
+5. Communication skills",,"1. Analyze various forms of literature to identify key themes, symbols, and literary devices used by authors|
+2. Demonstrate effective writing and composition skills through the development of coherent and well-structured essays and creative pieces|
+3. Apply different literary theories to critically analyze and interpret texts in order to deepen understanding and appreciation of literature|
+4. Engage in the creative writing process by producing original works that demonstrate proficiency in various literary genres and styles|
+5. Enhance communication skills by presenting ideas, arguments, and analyses in a clear, organized, and persuasive manner in both written and oral forms.",3.2170707166078434,Summer|Spring|Fall,1.40714833378581,9.069533978486943,86,True
+31444,CS370,"""Advanced Machine Learning Techniques""",CS,4.0,"This course delves into advanced machine learning techniques, focusing on deep learning, reinforcement learning, and ensemble methods. Students will explore cutting-edge algorithms and applications in areas such as natural language processing, computer vision, and robotics.",300,,,"1. Data structures and algorithms
+2. Software engineering principles
+3. Programming languages and paradigms
+4. Database management systems
+5. Computer networking and security",CS MAJOR,"1. Analyze and implement advanced data structures and algorithms to solve complex computational problems efficiently|
+2. Apply software engineering principles to design, develop, and maintain large-scale software systems with a focus on scalability, reliability, and maintainability|
+3. Evaluate and compare different programming languages and paradigms to choose the most appropriate one for a given problem domain|
+4. Design and implement database management systems to efficiently store, retrieve, and manage structured data for various applications|
+5. Implement and analyze computer networking protocols and security mechanisms to ensure secure and reliable communication over networks.",2.755458583555406,Summer|Spring|Fall,4.958010895727645,8.935421174035136,65,False
+85476,CHEM634,"""Advanced Topics in Chemical Synthesis and Catalysis""",CHEM,3.0,"This advanced course explores cutting-edge techniques in chemical synthesis and catalysis, focusing on the design and optimization of complex reaction pathways. Students will delve into current research in the field and develop skills in applying catalytic strategies to create novel molecules with specific properties.",600,CHEM447,MATH616,"1. General Chemistry
+2. Organic Chemistry
+3. Inorganic Chemistry
+4. Physical Chemistry
+5. Analytical Chemistry",ENG Major|PHYS Major,"1. Apply fundamental principles of general chemistry to explain and predict the behavior of matter and chemical reactions|
+2. Analyze the structure, properties, and reactivity of organic compounds using key concepts in organic chemistry|
+3. Identify and describe the properties and behavior of inorganic compounds based on their chemical structures and bonding patterns|
+4. Utilize principles and mathematical techniques in physical chemistry to solve quantitative problems related to chemical systems|
+5. Demonstrate proficiency in analytical techniques and methods for qualitative and quantitative chemical analysis.",3.2123648752272946,Summer|Spring|Fall,1.4433471136361855,11.323435575947641,85,True
