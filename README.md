@@ -9,9 +9,10 @@ To use this demo, install requirements.txt into your preferred virtual environme
 
 To get started in anaconda, create a new environment (I used Python 3.10.14) and run:
 
+```
 cd your/location/for/this/project
 pip install -r requirements.txt
-
+```
 You can run the notebook however you would like, but my preference was to use this environment as my kernal in VSCode. 
 
 If you experiment with it and find anything cool, feel free to reach out! I would appreciate hearing feedback and any use cases you found for this architecture. 
